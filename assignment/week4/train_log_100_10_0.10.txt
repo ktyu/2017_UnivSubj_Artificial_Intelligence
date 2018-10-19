@@ -1,0 +1,2005 @@
+Initial GenePool BestElite's Error Rate: 25.0%
+
+   1-th training, BestElite's ErrorRate: 16.0%
+   2-th training, BestElite's ErrorRate: 13.0%
+   3-th training, BestElite's ErrorRate: 13.0%
+   4-th training, BestElite's ErrorRate: 15.0%
+   5-th training, BestElite's ErrorRate: 11.0%
+   6-th training, BestElite's ErrorRate: 11.0%
+   7-th training, BestElite's ErrorRate: 11.0%
+   8-th training, BestElite's ErrorRate: 16.0%
+   9-th training, BestElite's ErrorRate: 16.0%
+  10-th training, BestElite's ErrorRate: 16.0%
+  11-th training, BestElite's ErrorRate: 16.0%
+  12-th training, BestElite's ErrorRate: 18.0%
+  13-th training, BestElite's ErrorRate: 18.0%
+  14-th training, BestElite's ErrorRate: 17.0%
+  15-th training, BestElite's ErrorRate: 17.0%
+  16-th training, BestElite's ErrorRate: 17.0%
+  17-th training, BestElite's ErrorRate: 17.0%
+  18-th training, BestElite's ErrorRate: 17.0%
+  19-th training, BestElite's ErrorRate: 17.0%
+  20-th training, BestElite's ErrorRate: 15.0%
+  21-th training, BestElite's ErrorRate: 15.0%
+  22-th training, BestElite's ErrorRate: 15.0%
+  23-th training, BestElite's ErrorRate: 15.0%
+  24-th training, BestElite's ErrorRate: 14.0%
+  25-th training, BestElite's ErrorRate: 14.0%
+  26-th training, BestElite's ErrorRate: 14.0%
+  27-th training, BestElite's ErrorRate: 14.0%
+  28-th training, BestElite's ErrorRate: 14.0%
+  29-th training, BestElite's ErrorRate: 14.0%
+  30-th training, BestElite's ErrorRate: 15.0%
+  31-th training, BestElite's ErrorRate: 15.0%
+  32-th training, BestElite's ErrorRate: 15.0%
+  33-th training, BestElite's ErrorRate: 15.0%
+  34-th training, BestElite's ErrorRate: 15.0%
+  35-th training, BestElite's ErrorRate: 15.0%
+  36-th training, BestElite's ErrorRate: 15.0%
+  37-th training, BestElite's ErrorRate: 14.0%
+  38-th training, BestElite's ErrorRate: 14.0%
+  39-th training, BestElite's ErrorRate: 14.0%
+  40-th training, BestElite's ErrorRate: 14.0%
+  41-th training, BestElite's ErrorRate: 14.0%
+  42-th training, BestElite's ErrorRate: 14.0%
+  43-th training, BestElite's ErrorRate: 14.0%
+  44-th training, BestElite's ErrorRate: 14.0%
+  45-th training, BestElite's ErrorRate: 14.0%
+  46-th training, BestElite's ErrorRate: 14.0%
+  47-th training, BestElite's ErrorRate: 14.0%
+  48-th training, BestElite's ErrorRate: 14.0%
+  49-th training, BestElite's ErrorRate: 14.0%
+  50-th training, BestElite's ErrorRate: 14.0%
+  51-th training, BestElite's ErrorRate: 14.0%
+  52-th training, BestElite's ErrorRate: 14.0%
+  53-th training, BestElite's ErrorRate: 14.0%
+  54-th training, BestElite's ErrorRate: 14.0%
+  55-th training, BestElite's ErrorRate: 14.0%
+  56-th training, BestElite's ErrorRate: 14.0%
+  57-th training, BestElite's ErrorRate: 14.0%
+  58-th training, BestElite's ErrorRate: 14.0%
+  59-th training, BestElite's ErrorRate: 14.0%
+  60-th training, BestElite's ErrorRate: 17.0%
+  61-th training, BestElite's ErrorRate: 17.0%
+  62-th training, BestElite's ErrorRate: 16.0%
+  63-th training, BestElite's ErrorRate: 16.0%
+  64-th training, BestElite's ErrorRate: 16.0%
+  65-th training, BestElite's ErrorRate: 16.0%
+  66-th training, BestElite's ErrorRate: 16.0%
+  67-th training, BestElite's ErrorRate: 15.0%
+  68-th training, BestElite's ErrorRate: 15.0%
+  69-th training, BestElite's ErrorRate: 15.0%
+  70-th training, BestElite's ErrorRate: 15.0%
+  71-th training, BestElite's ErrorRate: 15.0%
+  72-th training, BestElite's ErrorRate: 15.0%
+  73-th training, BestElite's ErrorRate: 15.0%
+  74-th training, BestElite's ErrorRate: 15.0%
+  75-th training, BestElite's ErrorRate: 15.0%
+  76-th training, BestElite's ErrorRate: 15.0%
+  77-th training, BestElite's ErrorRate: 14.0%
+  78-th training, BestElite's ErrorRate: 14.0%
+  79-th training, BestElite's ErrorRate: 14.0%
+  80-th training, BestElite's ErrorRate: 14.0%
+  81-th training, BestElite's ErrorRate: 14.0%
+  82-th training, BestElite's ErrorRate: 14.0%
+  83-th training, BestElite's ErrorRate: 14.0%
+  84-th training, BestElite's ErrorRate: 14.0%
+  85-th training, BestElite's ErrorRate: 14.0%
+  86-th training, BestElite's ErrorRate: 14.0%
+  87-th training, BestElite's ErrorRate: 14.0%
+  88-th training, BestElite's ErrorRate: 14.0%
+  89-th training, BestElite's ErrorRate: 14.0%
+  90-th training, BestElite's ErrorRate: 14.0%
+  91-th training, BestElite's ErrorRate: 14.0%
+  92-th training, BestElite's ErrorRate: 14.0%
+  93-th training, BestElite's ErrorRate: 14.0%
+  94-th training, BestElite's ErrorRate: 14.0%
+  95-th training, BestElite's ErrorRate: 14.0%
+  96-th training, BestElite's ErrorRate: 14.0%
+  97-th training, BestElite's ErrorRate: 14.0%
+  98-th training, BestElite's ErrorRate: 19.0%
+  99-th training, BestElite's ErrorRate: 19.0%
+ 100-th training, BestElite's ErrorRate: 19.0%
+ 101-th training, BestElite's ErrorRate: 19.0%
+ 102-th training, BestElite's ErrorRate: 19.0%
+ 103-th training, BestElite's ErrorRate: 19.0%
+ 104-th training, BestElite's ErrorRate: 19.0%
+ 105-th training, BestElite's ErrorRate: 16.0%
+ 106-th training, BestElite's ErrorRate: 16.0%
+ 107-th training, BestElite's ErrorRate: 16.0%
+ 108-th training, BestElite's ErrorRate: 17.0%
+ 109-th training, BestElite's ErrorRate: 17.0%
+ 110-th training, BestElite's ErrorRate: 17.0%
+ 111-th training, BestElite's ErrorRate: 17.0%
+ 112-th training, BestElite's ErrorRate: 17.0%
+ 113-th training, BestElite's ErrorRate: 17.0%
+ 114-th training, BestElite's ErrorRate: 17.0%
+ 115-th training, BestElite's ErrorRate: 17.0%
+ 116-th training, BestElite's ErrorRate: 17.0%
+ 117-th training, BestElite's ErrorRate: 17.0%
+ 118-th training, BestElite's ErrorRate: 17.0%
+ 119-th training, BestElite's ErrorRate: 17.0%
+ 120-th training, BestElite's ErrorRate: 17.0%
+ 121-th training, BestElite's ErrorRate: 17.0%
+ 122-th training, BestElite's ErrorRate: 17.0%
+ 123-th training, BestElite's ErrorRate: 17.0%
+ 124-th training, BestElite's ErrorRate: 17.0%
+ 125-th training, BestElite's ErrorRate: 17.0%
+ 126-th training, BestElite's ErrorRate: 16.0%
+ 127-th training, BestElite's ErrorRate: 16.0%
+ 128-th training, BestElite's ErrorRate: 16.0%
+ 129-th training, BestElite's ErrorRate: 16.0%
+ 130-th training, BestElite's ErrorRate: 16.0%
+ 131-th training, BestElite's ErrorRate: 16.0%
+ 132-th training, BestElite's ErrorRate: 16.0%
+ 133-th training, BestElite's ErrorRate: 16.0%
+ 134-th training, BestElite's ErrorRate: 16.0%
+ 135-th training, BestElite's ErrorRate: 21.0%
+ 136-th training, BestElite's ErrorRate: 21.0%
+ 137-th training, BestElite's ErrorRate: 21.0%
+ 138-th training, BestElite's ErrorRate: 21.0%
+ 139-th training, BestElite's ErrorRate: 14.0%
+ 140-th training, BestElite's ErrorRate: 17.0%
+ 141-th training, BestElite's ErrorRate: 17.0%
+ 142-th training, BestElite's ErrorRate: 17.0%
+ 143-th training, BestElite's ErrorRate: 17.0%
+ 144-th training, BestElite's ErrorRate: 17.0%
+ 145-th training, BestElite's ErrorRate: 17.0%
+ 146-th training, BestElite's ErrorRate: 17.0%
+ 147-th training, BestElite's ErrorRate: 17.0%
+ 148-th training, BestElite's ErrorRate: 17.0%
+ 149-th training, BestElite's ErrorRate: 17.0%
+ 150-th training, BestElite's ErrorRate: 17.0%
+ 151-th training, BestElite's ErrorRate: 17.0%
+ 152-th training, BestElite's ErrorRate: 17.0%
+ 153-th training, BestElite's ErrorRate: 17.0%
+ 154-th training, BestElite's ErrorRate: 17.0%
+ 155-th training, BestElite's ErrorRate: 17.0%
+ 156-th training, BestElite's ErrorRate: 17.0%
+ 157-th training, BestElite's ErrorRate: 17.0%
+ 158-th training, BestElite's ErrorRate: 17.0%
+ 159-th training, BestElite's ErrorRate: 17.0%
+ 160-th training, BestElite's ErrorRate: 17.0%
+ 161-th training, BestElite's ErrorRate: 17.0%
+ 162-th training, BestElite's ErrorRate: 17.0%
+ 163-th training, BestElite's ErrorRate: 17.0%
+ 164-th training, BestElite's ErrorRate: 17.0%
+ 165-th training, BestElite's ErrorRate: 17.0%
+ 166-th training, BestElite's ErrorRate: 17.0%
+ 167-th training, BestElite's ErrorRate: 17.0%
+ 168-th training, BestElite's ErrorRate: 17.0%
+ 169-th training, BestElite's ErrorRate: 17.0%
+ 170-th training, BestElite's ErrorRate: 17.0%
+ 171-th training, BestElite's ErrorRate: 17.0%
+ 172-th training, BestElite's ErrorRate: 17.0%
+ 173-th training, BestElite's ErrorRate: 19.0%
+ 174-th training, BestElite's ErrorRate: 19.0%
+ 175-th training, BestElite's ErrorRate: 19.0%
+ 176-th training, BestElite's ErrorRate: 19.0%
+ 177-th training, BestElite's ErrorRate: 19.0%
+ 178-th training, BestElite's ErrorRate: 19.0%
+ 179-th training, BestElite's ErrorRate: 19.0%
+ 180-th training, BestElite's ErrorRate: 19.0%
+ 181-th training, BestElite's ErrorRate: 19.0%
+ 182-th training, BestElite's ErrorRate: 19.0%
+ 183-th training, BestElite's ErrorRate: 19.0%
+ 184-th training, BestElite's ErrorRate: 16.0%
+ 185-th training, BestElite's ErrorRate: 16.0%
+ 186-th training, BestElite's ErrorRate: 16.0%
+ 187-th training, BestElite's ErrorRate: 16.0%
+ 188-th training, BestElite's ErrorRate: 16.0%
+ 189-th training, BestElite's ErrorRate: 16.0%
+ 190-th training, BestElite's ErrorRate: 16.0%
+ 191-th training, BestElite's ErrorRate: 16.0%
+ 192-th training, BestElite's ErrorRate: 16.0%
+ 193-th training, BestElite's ErrorRate: 16.0%
+ 194-th training, BestElite's ErrorRate: 16.0%
+ 195-th training, BestElite's ErrorRate: 13.0%
+ 196-th training, BestElite's ErrorRate: 13.0%
+ 197-th training, BestElite's ErrorRate: 13.0%
+ 198-th training, BestElite's ErrorRate: 13.0%
+ 199-th training, BestElite's ErrorRate: 13.0%
+ 200-th training, BestElite's ErrorRate: 13.0%
+ 201-th training, BestElite's ErrorRate: 13.0%
+ 202-th training, BestElite's ErrorRate: 13.0%
+ 203-th training, BestElite's ErrorRate: 13.0%
+ 204-th training, BestElite's ErrorRate: 13.0%
+ 205-th training, BestElite's ErrorRate: 13.0%
+ 206-th training, BestElite's ErrorRate: 13.0%
+ 207-th training, BestElite's ErrorRate: 13.0%
+ 208-th training, BestElite's ErrorRate: 13.0%
+ 209-th training, BestElite's ErrorRate: 13.0%
+ 210-th training, BestElite's ErrorRate: 13.0%
+ 211-th training, BestElite's ErrorRate: 13.0%
+ 212-th training, BestElite's ErrorRate: 13.0%
+ 213-th training, BestElite's ErrorRate: 13.0%
+ 214-th training, BestElite's ErrorRate: 13.0%
+ 215-th training, BestElite's ErrorRate: 13.0%
+ 216-th training, BestElite's ErrorRate: 13.0%
+ 217-th training, BestElite's ErrorRate: 13.0%
+ 218-th training, BestElite's ErrorRate: 13.0%
+ 219-th training, BestElite's ErrorRate: 13.0%
+ 220-th training, BestElite's ErrorRate: 13.0%
+ 221-th training, BestElite's ErrorRate: 13.0%
+ 222-th training, BestElite's ErrorRate: 13.0%
+ 223-th training, BestElite's ErrorRate: 13.0%
+ 224-th training, BestElite's ErrorRate: 13.0%
+ 225-th training, BestElite's ErrorRate: 13.0%
+ 226-th training, BestElite's ErrorRate: 13.0%
+ 227-th training, BestElite's ErrorRate: 13.0%
+ 228-th training, BestElite's ErrorRate: 13.0%
+ 229-th training, BestElite's ErrorRate: 13.0%
+ 230-th training, BestElite's ErrorRate: 14.0%
+ 231-th training, BestElite's ErrorRate: 14.0%
+ 232-th training, BestElite's ErrorRate: 14.0%
+ 233-th training, BestElite's ErrorRate: 14.0%
+ 234-th training, BestElite's ErrorRate: 14.0%
+ 235-th training, BestElite's ErrorRate: 13.0%
+ 236-th training, BestElite's ErrorRate: 13.0%
+ 237-th training, BestElite's ErrorRate: 13.0%
+ 238-th training, BestElite's ErrorRate: 13.0%
+ 239-th training, BestElite's ErrorRate: 13.0%
+ 240-th training, BestElite's ErrorRate: 13.0%
+ 241-th training, BestElite's ErrorRate: 13.0%
+ 242-th training, BestElite's ErrorRate: 13.0%
+ 243-th training, BestElite's ErrorRate: 13.0%
+ 244-th training, BestElite's ErrorRate: 13.0%
+ 245-th training, BestElite's ErrorRate: 13.0%
+ 246-th training, BestElite's ErrorRate: 13.0%
+ 247-th training, BestElite's ErrorRate: 13.0%
+ 248-th training, BestElite's ErrorRate: 13.0%
+ 249-th training, BestElite's ErrorRate: 13.0%
+ 250-th training, BestElite's ErrorRate: 13.0%
+ 251-th training, BestElite's ErrorRate: 13.0%
+ 252-th training, BestElite's ErrorRate: 13.0%
+ 253-th training, BestElite's ErrorRate: 13.0%
+ 254-th training, BestElite's ErrorRate: 13.0%
+ 255-th training, BestElite's ErrorRate: 13.0%
+ 256-th training, BestElite's ErrorRate: 13.0%
+ 257-th training, BestElite's ErrorRate: 13.0%
+ 258-th training, BestElite's ErrorRate: 13.0%
+ 259-th training, BestElite's ErrorRate: 13.0%
+ 260-th training, BestElite's ErrorRate: 13.0%
+ 261-th training, BestElite's ErrorRate: 13.0%
+ 262-th training, BestElite's ErrorRate: 13.0%
+ 263-th training, BestElite's ErrorRate: 13.0%
+ 264-th training, BestElite's ErrorRate: 16.0%
+ 265-th training, BestElite's ErrorRate: 16.0%
+ 266-th training, BestElite's ErrorRate: 16.0%
+ 267-th training, BestElite's ErrorRate: 16.0%
+ 268-th training, BestElite's ErrorRate: 16.0%
+ 269-th training, BestElite's ErrorRate: 16.0%
+ 270-th training, BestElite's ErrorRate: 16.0%
+ 271-th training, BestElite's ErrorRate: 16.0%
+ 272-th training, BestElite's ErrorRate: 16.0%
+ 273-th training, BestElite's ErrorRate: 16.0%
+ 274-th training, BestElite's ErrorRate: 16.0%
+ 275-th training, BestElite's ErrorRate: 16.0%
+ 276-th training, BestElite's ErrorRate: 16.0%
+ 277-th training, BestElite's ErrorRate: 16.0%
+ 278-th training, BestElite's ErrorRate: 16.0%
+ 279-th training, BestElite's ErrorRate: 16.0%
+ 280-th training, BestElite's ErrorRate: 16.0%
+ 281-th training, BestElite's ErrorRate: 16.0%
+ 282-th training, BestElite's ErrorRate: 16.0%
+ 283-th training, BestElite's ErrorRate: 16.0%
+ 284-th training, BestElite's ErrorRate: 16.0%
+ 285-th training, BestElite's ErrorRate: 16.0%
+ 286-th training, BestElite's ErrorRate: 16.0%
+ 287-th training, BestElite's ErrorRate: 16.0%
+ 288-th training, BestElite's ErrorRate: 16.0%
+ 289-th training, BestElite's ErrorRate: 16.0%
+ 290-th training, BestElite's ErrorRate: 16.0%
+ 291-th training, BestElite's ErrorRate: 16.0%
+ 292-th training, BestElite's ErrorRate: 16.0%
+ 293-th training, BestElite's ErrorRate: 16.0%
+ 294-th training, BestElite's ErrorRate: 13.0%
+ 295-th training, BestElite's ErrorRate: 13.0%
+ 296-th training, BestElite's ErrorRate: 13.0%
+ 297-th training, BestElite's ErrorRate: 13.0%
+ 298-th training, BestElite's ErrorRate: 13.0%
+ 299-th training, BestElite's ErrorRate: 13.0%
+ 300-th training, BestElite's ErrorRate: 13.0%
+ 301-th training, BestElite's ErrorRate: 13.0%
+ 302-th training, BestElite's ErrorRate: 15.0%
+ 303-th training, BestElite's ErrorRate: 15.0%
+ 304-th training, BestElite's ErrorRate: 15.0%
+ 305-th training, BestElite's ErrorRate: 15.0%
+ 306-th training, BestElite's ErrorRate: 15.0%
+ 307-th training, BestElite's ErrorRate: 15.0%
+ 308-th training, BestElite's ErrorRate: 15.0%
+ 309-th training, BestElite's ErrorRate: 15.0%
+ 310-th training, BestElite's ErrorRate: 13.0%
+ 311-th training, BestElite's ErrorRate: 13.0%
+ 312-th training, BestElite's ErrorRate: 13.0%
+ 313-th training, BestElite's ErrorRate: 13.0%
+ 314-th training, BestElite's ErrorRate: 13.0%
+ 315-th training, BestElite's ErrorRate: 13.0%
+ 316-th training, BestElite's ErrorRate: 13.0%
+ 317-th training, BestElite's ErrorRate: 13.0%
+ 318-th training, BestElite's ErrorRate: 13.0%
+ 319-th training, BestElite's ErrorRate: 13.0%
+ 320-th training, BestElite's ErrorRate: 13.0%
+ 321-th training, BestElite's ErrorRate: 13.0%
+ 322-th training, BestElite's ErrorRate: 13.0%
+ 323-th training, BestElite's ErrorRate: 13.0%
+ 324-th training, BestElite's ErrorRate: 13.0%
+ 325-th training, BestElite's ErrorRate: 13.0%
+ 326-th training, BestElite's ErrorRate: 13.0%
+ 327-th training, BestElite's ErrorRate: 13.0%
+ 328-th training, BestElite's ErrorRate: 13.0%
+ 329-th training, BestElite's ErrorRate: 13.0%
+ 330-th training, BestElite's ErrorRate: 16.0%
+ 331-th training, BestElite's ErrorRate: 16.0%
+ 332-th training, BestElite's ErrorRate: 16.0%
+ 333-th training, BestElite's ErrorRate: 16.0%
+ 334-th training, BestElite's ErrorRate: 16.0%
+ 335-th training, BestElite's ErrorRate: 16.0%
+ 336-th training, BestElite's ErrorRate: 14.0%
+ 337-th training, BestElite's ErrorRate: 14.0%
+ 338-th training, BestElite's ErrorRate: 14.0%
+ 339-th training, BestElite's ErrorRate: 14.0%
+ 340-th training, BestElite's ErrorRate: 14.0%
+ 341-th training, BestElite's ErrorRate: 14.0%
+ 342-th training, BestElite's ErrorRate: 14.0%
+ 343-th training, BestElite's ErrorRate: 14.0%
+ 344-th training, BestElite's ErrorRate: 14.0%
+ 345-th training, BestElite's ErrorRate: 14.0%
+ 346-th training, BestElite's ErrorRate: 14.0%
+ 347-th training, BestElite's ErrorRate: 14.0%
+ 348-th training, BestElite's ErrorRate: 14.0%
+ 349-th training, BestElite's ErrorRate: 14.0%
+ 350-th training, BestElite's ErrorRate: 14.0%
+ 351-th training, BestElite's ErrorRate: 14.0%
+ 352-th training, BestElite's ErrorRate: 14.0%
+ 353-th training, BestElite's ErrorRate: 14.0%
+ 354-th training, BestElite's ErrorRate: 14.0%
+ 355-th training, BestElite's ErrorRate: 14.0%
+ 356-th training, BestElite's ErrorRate: 14.0%
+ 357-th training, BestElite's ErrorRate: 14.0%
+ 358-th training, BestElite's ErrorRate: 14.0%
+ 359-th training, BestElite's ErrorRate: 14.0%
+ 360-th training, BestElite's ErrorRate: 14.0%
+ 361-th training, BestElite's ErrorRate: 14.0%
+ 362-th training, BestElite's ErrorRate: 14.0%
+ 363-th training, BestElite's ErrorRate: 14.0%
+ 364-th training, BestElite's ErrorRate: 14.0%
+ 365-th training, BestElite's ErrorRate: 14.0%
+ 366-th training, BestElite's ErrorRate: 14.0%
+ 367-th training, BestElite's ErrorRate: 15.0%
+ 368-th training, BestElite's ErrorRate: 15.0%
+ 369-th training, BestElite's ErrorRate: 15.0%
+ 370-th training, BestElite's ErrorRate: 15.0%
+ 371-th training, BestElite's ErrorRate: 15.0%
+ 372-th training, BestElite's ErrorRate: 15.0%
+ 373-th training, BestElite's ErrorRate: 15.0%
+ 374-th training, BestElite's ErrorRate: 15.0%
+ 375-th training, BestElite's ErrorRate: 15.0%
+ 376-th training, BestElite's ErrorRate: 15.0%
+ 377-th training, BestElite's ErrorRate: 15.0%
+ 378-th training, BestElite's ErrorRate: 14.0%
+ 379-th training, BestElite's ErrorRate: 14.0%
+ 380-th training, BestElite's ErrorRate: 14.0%
+ 381-th training, BestElite's ErrorRate: 14.0%
+ 382-th training, BestElite's ErrorRate: 14.0%
+ 383-th training, BestElite's ErrorRate: 14.0%
+ 384-th training, BestElite's ErrorRate: 14.0%
+ 385-th training, BestElite's ErrorRate: 14.0%
+ 386-th training, BestElite's ErrorRate: 14.0%
+ 387-th training, BestElite's ErrorRate: 14.0%
+ 388-th training, BestElite's ErrorRate: 15.0%
+ 389-th training, BestElite's ErrorRate: 15.0%
+ 390-th training, BestElite's ErrorRate: 15.0%
+ 391-th training, BestElite's ErrorRate: 14.0%
+ 392-th training, BestElite's ErrorRate: 14.0%
+ 393-th training, BestElite's ErrorRate: 14.0%
+ 394-th training, BestElite's ErrorRate: 14.0%
+ 395-th training, BestElite's ErrorRate: 14.0%
+ 396-th training, BestElite's ErrorRate: 14.0%
+ 397-th training, BestElite's ErrorRate: 14.0%
+ 398-th training, BestElite's ErrorRate: 14.0%
+ 399-th training, BestElite's ErrorRate: 14.0%
+ 400-th training, BestElite's ErrorRate: 14.0%
+ 401-th training, BestElite's ErrorRate: 14.0%
+ 402-th training, BestElite's ErrorRate: 14.0%
+ 403-th training, BestElite's ErrorRate: 14.0%
+ 404-th training, BestElite's ErrorRate: 14.0%
+ 405-th training, BestElite's ErrorRate: 14.0%
+ 406-th training, BestElite's ErrorRate: 14.0%
+ 407-th training, BestElite's ErrorRate: 14.0%
+ 408-th training, BestElite's ErrorRate: 14.0%
+ 409-th training, BestElite's ErrorRate: 14.0%
+ 410-th training, BestElite's ErrorRate: 14.0%
+ 411-th training, BestElite's ErrorRate: 14.0%
+ 412-th training, BestElite's ErrorRate: 14.0%
+ 413-th training, BestElite's ErrorRate: 14.0%
+ 414-th training, BestElite's ErrorRate: 14.0%
+ 415-th training, BestElite's ErrorRate: 14.0%
+ 416-th training, BestElite's ErrorRate: 13.0%
+ 417-th training, BestElite's ErrorRate: 13.0%
+ 418-th training, BestElite's ErrorRate: 13.0%
+ 419-th training, BestElite's ErrorRate: 13.0%
+ 420-th training, BestElite's ErrorRate: 13.0%
+ 421-th training, BestElite's ErrorRate: 13.0%
+ 422-th training, BestElite's ErrorRate: 13.0%
+ 423-th training, BestElite's ErrorRate: 13.0%
+ 424-th training, BestElite's ErrorRate: 13.0%
+ 425-th training, BestElite's ErrorRate: 13.0%
+ 426-th training, BestElite's ErrorRate: 13.0%
+ 427-th training, BestElite's ErrorRate: 13.0%
+ 428-th training, BestElite's ErrorRate: 13.0%
+ 429-th training, BestElite's ErrorRate: 13.0%
+ 430-th training, BestElite's ErrorRate: 13.0%
+ 431-th training, BestElite's ErrorRate: 13.0%
+ 432-th training, BestElite's ErrorRate: 13.0%
+ 433-th training, BestElite's ErrorRate: 13.0%
+ 434-th training, BestElite's ErrorRate: 13.0%
+ 435-th training, BestElite's ErrorRate: 13.0%
+ 436-th training, BestElite's ErrorRate: 13.0%
+ 437-th training, BestElite's ErrorRate: 13.0%
+ 438-th training, BestElite's ErrorRate: 13.0%
+ 439-th training, BestElite's ErrorRate: 13.0%
+ 440-th training, BestElite's ErrorRate: 13.0%
+ 441-th training, BestElite's ErrorRate: 13.0%
+ 442-th training, BestElite's ErrorRate: 13.0%
+ 443-th training, BestElite's ErrorRate: 13.0%
+ 444-th training, BestElite's ErrorRate: 13.0%
+ 445-th training, BestElite's ErrorRate: 13.0%
+ 446-th training, BestElite's ErrorRate: 13.0%
+ 447-th training, BestElite's ErrorRate: 13.0%
+ 448-th training, BestElite's ErrorRate: 13.0%
+ 449-th training, BestElite's ErrorRate: 13.0%
+ 450-th training, BestElite's ErrorRate: 13.0%
+ 451-th training, BestElite's ErrorRate: 13.0%
+ 452-th training, BestElite's ErrorRate: 13.0%
+ 453-th training, BestElite's ErrorRate: 13.0%
+ 454-th training, BestElite's ErrorRate: 13.0%
+ 455-th training, BestElite's ErrorRate: 13.0%
+ 456-th training, BestElite's ErrorRate: 13.0%
+ 457-th training, BestElite's ErrorRate: 13.0%
+ 458-th training, BestElite's ErrorRate: 13.0%
+ 459-th training, BestElite's ErrorRate: 13.0%
+ 460-th training, BestElite's ErrorRate: 13.0%
+ 461-th training, BestElite's ErrorRate: 13.0%
+ 462-th training, BestElite's ErrorRate: 13.0%
+ 463-th training, BestElite's ErrorRate: 13.0%
+ 464-th training, BestElite's ErrorRate: 13.0%
+ 465-th training, BestElite's ErrorRate: 13.0%
+ 466-th training, BestElite's ErrorRate: 13.0%
+ 467-th training, BestElite's ErrorRate: 13.0%
+ 468-th training, BestElite's ErrorRate: 13.0%
+ 469-th training, BestElite's ErrorRate: 13.0%
+ 470-th training, BestElite's ErrorRate: 13.0%
+ 471-th training, BestElite's ErrorRate: 14.0%
+ 472-th training, BestElite's ErrorRate: 14.0%
+ 473-th training, BestElite's ErrorRate: 14.0%
+ 474-th training, BestElite's ErrorRate: 14.0%
+ 475-th training, BestElite's ErrorRate: 14.0%
+ 476-th training, BestElite's ErrorRate: 14.0%
+ 477-th training, BestElite's ErrorRate: 14.0%
+ 478-th training, BestElite's ErrorRate: 14.0%
+ 479-th training, BestElite's ErrorRate: 14.0%
+ 480-th training, BestElite's ErrorRate: 14.0%
+ 481-th training, BestElite's ErrorRate: 14.0%
+ 482-th training, BestElite's ErrorRate: 14.0%
+ 483-th training, BestElite's ErrorRate: 14.0%
+ 484-th training, BestElite's ErrorRate: 14.0%
+ 485-th training, BestElite's ErrorRate: 14.0%
+ 486-th training, BestElite's ErrorRate: 14.0%
+ 487-th training, BestElite's ErrorRate: 14.0%
+ 488-th training, BestElite's ErrorRate: 14.0%
+ 489-th training, BestElite's ErrorRate: 14.0%
+ 490-th training, BestElite's ErrorRate: 14.0%
+ 491-th training, BestElite's ErrorRate: 14.0%
+ 492-th training, BestElite's ErrorRate: 14.0%
+ 493-th training, BestElite's ErrorRate: 14.0%
+ 494-th training, BestElite's ErrorRate: 14.0%
+ 495-th training, BestElite's ErrorRate: 14.0%
+ 496-th training, BestElite's ErrorRate: 14.0%
+ 497-th training, BestElite's ErrorRate: 14.0%
+ 498-th training, BestElite's ErrorRate: 14.0%
+ 499-th training, BestElite's ErrorRate: 14.0%
+ 500-th training, BestElite's ErrorRate: 14.0%
+ 501-th training, BestElite's ErrorRate: 14.0%
+ 502-th training, BestElite's ErrorRate: 14.0%
+ 503-th training, BestElite's ErrorRate: 14.0%
+ 504-th training, BestElite's ErrorRate: 14.0%
+ 505-th training, BestElite's ErrorRate: 14.0%
+ 506-th training, BestElite's ErrorRate: 14.0%
+ 507-th training, BestElite's ErrorRate: 14.0%
+ 508-th training, BestElite's ErrorRate: 14.0%
+ 509-th training, BestElite's ErrorRate: 14.0%
+ 510-th training, BestElite's ErrorRate: 14.0%
+ 511-th training, BestElite's ErrorRate: 14.0%
+ 512-th training, BestElite's ErrorRate: 14.0%
+ 513-th training, BestElite's ErrorRate: 14.0%
+ 514-th training, BestElite's ErrorRate: 14.0%
+ 515-th training, BestElite's ErrorRate: 14.0%
+ 516-th training, BestElite's ErrorRate: 14.0%
+ 517-th training, BestElite's ErrorRate: 14.0%
+ 518-th training, BestElite's ErrorRate: 14.0%
+ 519-th training, BestElite's ErrorRate: 14.0%
+ 520-th training, BestElite's ErrorRate: 14.0%
+ 521-th training, BestElite's ErrorRate: 14.0%
+ 522-th training, BestElite's ErrorRate: 14.0%
+ 523-th training, BestElite's ErrorRate: 14.0%
+ 524-th training, BestElite's ErrorRate: 14.0%
+ 525-th training, BestElite's ErrorRate: 14.0%
+ 526-th training, BestElite's ErrorRate: 14.0%
+ 527-th training, BestElite's ErrorRate: 14.0%
+ 528-th training, BestElite's ErrorRate: 14.0%
+ 529-th training, BestElite's ErrorRate: 14.0%
+ 530-th training, BestElite's ErrorRate: 14.0%
+ 531-th training, BestElite's ErrorRate: 14.0%
+ 532-th training, BestElite's ErrorRate: 14.0%
+ 533-th training, BestElite's ErrorRate: 14.0%
+ 534-th training, BestElite's ErrorRate: 14.0%
+ 535-th training, BestElite's ErrorRate: 14.0%
+ 536-th training, BestElite's ErrorRate: 14.0%
+ 537-th training, BestElite's ErrorRate: 14.0%
+ 538-th training, BestElite's ErrorRate: 14.0%
+ 539-th training, BestElite's ErrorRate: 14.0%
+ 540-th training, BestElite's ErrorRate: 14.0%
+ 541-th training, BestElite's ErrorRate: 14.0%
+ 542-th training, BestElite's ErrorRate: 14.0%
+ 543-th training, BestElite's ErrorRate: 14.0%
+ 544-th training, BestElite's ErrorRate: 14.0%
+ 545-th training, BestElite's ErrorRate: 14.0%
+ 546-th training, BestElite's ErrorRate: 14.0%
+ 547-th training, BestElite's ErrorRate: 14.0%
+ 548-th training, BestElite's ErrorRate: 14.0%
+ 549-th training, BestElite's ErrorRate: 14.0%
+ 550-th training, BestElite's ErrorRate: 14.0%
+ 551-th training, BestElite's ErrorRate: 14.0%
+ 552-th training, BestElite's ErrorRate: 14.0%
+ 553-th training, BestElite's ErrorRate: 14.0%
+ 554-th training, BestElite's ErrorRate: 13.0%
+ 555-th training, BestElite's ErrorRate: 13.0%
+ 556-th training, BestElite's ErrorRate: 13.0%
+ 557-th training, BestElite's ErrorRate: 13.0%
+ 558-th training, BestElite's ErrorRate: 13.0%
+ 559-th training, BestElite's ErrorRate: 13.0%
+ 560-th training, BestElite's ErrorRate: 13.0%
+ 561-th training, BestElite's ErrorRate: 13.0%
+ 562-th training, BestElite's ErrorRate: 13.0%
+ 563-th training, BestElite's ErrorRate: 13.0%
+ 564-th training, BestElite's ErrorRate: 13.0%
+ 565-th training, BestElite's ErrorRate: 13.0%
+ 566-th training, BestElite's ErrorRate: 13.0%
+ 567-th training, BestElite's ErrorRate: 13.0%
+ 568-th training, BestElite's ErrorRate: 13.0%
+ 569-th training, BestElite's ErrorRate: 13.0%
+ 570-th training, BestElite's ErrorRate: 13.0%
+ 571-th training, BestElite's ErrorRate: 13.0%
+ 572-th training, BestElite's ErrorRate: 13.0%
+ 573-th training, BestElite's ErrorRate: 13.0%
+ 574-th training, BestElite's ErrorRate: 13.0%
+ 575-th training, BestElite's ErrorRate: 13.0%
+ 576-th training, BestElite's ErrorRate: 13.0%
+ 577-th training, BestElite's ErrorRate: 13.0%
+ 578-th training, BestElite's ErrorRate: 13.0%
+ 579-th training, BestElite's ErrorRate: 13.0%
+ 580-th training, BestElite's ErrorRate: 13.0%
+ 581-th training, BestElite's ErrorRate: 13.0%
+ 582-th training, BestElite's ErrorRate: 13.0%
+ 583-th training, BestElite's ErrorRate: 13.0%
+ 584-th training, BestElite's ErrorRate: 13.0%
+ 585-th training, BestElite's ErrorRate: 13.0%
+ 586-th training, BestElite's ErrorRate: 13.0%
+ 587-th training, BestElite's ErrorRate: 13.0%
+ 588-th training, BestElite's ErrorRate: 13.0%
+ 589-th training, BestElite's ErrorRate: 13.0%
+ 590-th training, BestElite's ErrorRate: 13.0%
+ 591-th training, BestElite's ErrorRate: 13.0%
+ 592-th training, BestElite's ErrorRate: 13.0%
+ 593-th training, BestElite's ErrorRate: 13.0%
+ 594-th training, BestElite's ErrorRate: 13.0%
+ 595-th training, BestElite's ErrorRate: 13.0%
+ 596-th training, BestElite's ErrorRate: 13.0%
+ 597-th training, BestElite's ErrorRate: 13.0%
+ 598-th training, BestElite's ErrorRate: 13.0%
+ 599-th training, BestElite's ErrorRate: 13.0%
+ 600-th training, BestElite's ErrorRate: 13.0%
+ 601-th training, BestElite's ErrorRate: 13.0%
+ 602-th training, BestElite's ErrorRate: 13.0%
+ 603-th training, BestElite's ErrorRate: 13.0%
+ 604-th training, BestElite's ErrorRate: 13.0%
+ 605-th training, BestElite's ErrorRate: 13.0%
+ 606-th training, BestElite's ErrorRate: 13.0%
+ 607-th training, BestElite's ErrorRate: 13.0%
+ 608-th training, BestElite's ErrorRate: 13.0%
+ 609-th training, BestElite's ErrorRate: 13.0%
+ 610-th training, BestElite's ErrorRate: 13.0%
+ 611-th training, BestElite's ErrorRate: 13.0%
+ 612-th training, BestElite's ErrorRate: 13.0%
+ 613-th training, BestElite's ErrorRate: 13.0%
+ 614-th training, BestElite's ErrorRate: 13.0%
+ 615-th training, BestElite's ErrorRate: 13.0%
+ 616-th training, BestElite's ErrorRate: 13.0%
+ 617-th training, BestElite's ErrorRate: 13.0%
+ 618-th training, BestElite's ErrorRate: 13.0%
+ 619-th training, BestElite's ErrorRate: 13.0%
+ 620-th training, BestElite's ErrorRate: 13.0%
+ 621-th training, BestElite's ErrorRate: 13.0%
+ 622-th training, BestElite's ErrorRate: 13.0%
+ 623-th training, BestElite's ErrorRate: 13.0%
+ 624-th training, BestElite's ErrorRate: 13.0%
+ 625-th training, BestElite's ErrorRate: 13.0%
+ 626-th training, BestElite's ErrorRate: 13.0%
+ 627-th training, BestElite's ErrorRate: 13.0%
+ 628-th training, BestElite's ErrorRate: 13.0%
+ 629-th training, BestElite's ErrorRate: 13.0%
+ 630-th training, BestElite's ErrorRate: 13.0%
+ 631-th training, BestElite's ErrorRate: 13.0%
+ 632-th training, BestElite's ErrorRate: 13.0%
+ 633-th training, BestElite's ErrorRate: 13.0%
+ 634-th training, BestElite's ErrorRate: 13.0%
+ 635-th training, BestElite's ErrorRate: 13.0%
+ 636-th training, BestElite's ErrorRate: 13.0%
+ 637-th training, BestElite's ErrorRate: 13.0%
+ 638-th training, BestElite's ErrorRate: 13.0%
+ 639-th training, BestElite's ErrorRate: 13.0%
+ 640-th training, BestElite's ErrorRate: 13.0%
+ 641-th training, BestElite's ErrorRate: 13.0%
+ 642-th training, BestElite's ErrorRate: 13.0%
+ 643-th training, BestElite's ErrorRate: 13.0%
+ 644-th training, BestElite's ErrorRate: 13.0%
+ 645-th training, BestElite's ErrorRate: 13.0%
+ 646-th training, BestElite's ErrorRate: 13.0%
+ 647-th training, BestElite's ErrorRate: 13.0%
+ 648-th training, BestElite's ErrorRate: 13.0%
+ 649-th training, BestElite's ErrorRate: 13.0%
+ 650-th training, BestElite's ErrorRate: 13.0%
+ 651-th training, BestElite's ErrorRate: 13.0%
+ 652-th training, BestElite's ErrorRate: 13.0%
+ 653-th training, BestElite's ErrorRate: 13.0%
+ 654-th training, BestElite's ErrorRate: 13.0%
+ 655-th training, BestElite's ErrorRate: 13.0%
+ 656-th training, BestElite's ErrorRate: 13.0%
+ 657-th training, BestElite's ErrorRate: 13.0%
+ 658-th training, BestElite's ErrorRate: 13.0%
+ 659-th training, BestElite's ErrorRate: 13.0%
+ 660-th training, BestElite's ErrorRate: 13.0%
+ 661-th training, BestElite's ErrorRate: 13.0%
+ 662-th training, BestElite's ErrorRate: 13.0%
+ 663-th training, BestElite's ErrorRate: 13.0%
+ 664-th training, BestElite's ErrorRate: 13.0%
+ 665-th training, BestElite's ErrorRate: 13.0%
+ 666-th training, BestElite's ErrorRate: 13.0%
+ 667-th training, BestElite's ErrorRate: 13.0%
+ 668-th training, BestElite's ErrorRate: 13.0%
+ 669-th training, BestElite's ErrorRate: 13.0%
+ 670-th training, BestElite's ErrorRate: 13.0%
+ 671-th training, BestElite's ErrorRate: 13.0%
+ 672-th training, BestElite's ErrorRate: 13.0%
+ 673-th training, BestElite's ErrorRate: 13.0%
+ 674-th training, BestElite's ErrorRate: 13.0%
+ 675-th training, BestElite's ErrorRate: 13.0%
+ 676-th training, BestElite's ErrorRate: 13.0%
+ 677-th training, BestElite's ErrorRate: 13.0%
+ 678-th training, BestElite's ErrorRate: 13.0%
+ 679-th training, BestElite's ErrorRate: 13.0%
+ 680-th training, BestElite's ErrorRate: 13.0%
+ 681-th training, BestElite's ErrorRate: 13.0%
+ 682-th training, BestElite's ErrorRate: 13.0%
+ 683-th training, BestElite's ErrorRate: 13.0%
+ 684-th training, BestElite's ErrorRate: 13.0%
+ 685-th training, BestElite's ErrorRate: 13.0%
+ 686-th training, BestElite's ErrorRate: 13.0%
+ 687-th training, BestElite's ErrorRate: 13.0%
+ 688-th training, BestElite's ErrorRate: 13.0%
+ 689-th training, BestElite's ErrorRate: 13.0%
+ 690-th training, BestElite's ErrorRate: 13.0%
+ 691-th training, BestElite's ErrorRate: 13.0%
+ 692-th training, BestElite's ErrorRate: 13.0%
+ 693-th training, BestElite's ErrorRate: 13.0%
+ 694-th training, BestElite's ErrorRate: 13.0%
+ 695-th training, BestElite's ErrorRate: 13.0%
+ 696-th training, BestElite's ErrorRate: 13.0%
+ 697-th training, BestElite's ErrorRate: 13.0%
+ 698-th training, BestElite's ErrorRate: 13.0%
+ 699-th training, BestElite's ErrorRate: 13.0%
+ 700-th training, BestElite's ErrorRate: 13.0%
+ 701-th training, BestElite's ErrorRate: 13.0%
+ 702-th training, BestElite's ErrorRate: 13.0%
+ 703-th training, BestElite's ErrorRate: 13.0%
+ 704-th training, BestElite's ErrorRate: 13.0%
+ 705-th training, BestElite's ErrorRate: 13.0%
+ 706-th training, BestElite's ErrorRate: 13.0%
+ 707-th training, BestElite's ErrorRate: 13.0%
+ 708-th training, BestElite's ErrorRate: 13.0%
+ 709-th training, BestElite's ErrorRate: 13.0%
+ 710-th training, BestElite's ErrorRate: 13.0%
+ 711-th training, BestElite's ErrorRate: 13.0%
+ 712-th training, BestElite's ErrorRate: 13.0%
+ 713-th training, BestElite's ErrorRate: 13.0%
+ 714-th training, BestElite's ErrorRate: 13.0%
+ 715-th training, BestElite's ErrorRate: 13.0%
+ 716-th training, BestElite's ErrorRate: 13.0%
+ 717-th training, BestElite's ErrorRate: 13.0%
+ 718-th training, BestElite's ErrorRate: 13.0%
+ 719-th training, BestElite's ErrorRate: 13.0%
+ 720-th training, BestElite's ErrorRate: 13.0%
+ 721-th training, BestElite's ErrorRate: 13.0%
+ 722-th training, BestElite's ErrorRate: 13.0%
+ 723-th training, BestElite's ErrorRate: 13.0%
+ 724-th training, BestElite's ErrorRate: 13.0%
+ 725-th training, BestElite's ErrorRate: 13.0%
+ 726-th training, BestElite's ErrorRate: 13.0%
+ 727-th training, BestElite's ErrorRate: 13.0%
+ 728-th training, BestElite's ErrorRate: 13.0%
+ 729-th training, BestElite's ErrorRate: 13.0%
+ 730-th training, BestElite's ErrorRate: 13.0%
+ 731-th training, BestElite's ErrorRate: 13.0%
+ 732-th training, BestElite's ErrorRate: 13.0%
+ 733-th training, BestElite's ErrorRate: 13.0%
+ 734-th training, BestElite's ErrorRate: 13.0%
+ 735-th training, BestElite's ErrorRate: 13.0%
+ 736-th training, BestElite's ErrorRate: 13.0%
+ 737-th training, BestElite's ErrorRate: 13.0%
+ 738-th training, BestElite's ErrorRate: 13.0%
+ 739-th training, BestElite's ErrorRate: 13.0%
+ 740-th training, BestElite's ErrorRate: 13.0%
+ 741-th training, BestElite's ErrorRate: 13.0%
+ 742-th training, BestElite's ErrorRate: 13.0%
+ 743-th training, BestElite's ErrorRate: 13.0%
+ 744-th training, BestElite's ErrorRate: 13.0%
+ 745-th training, BestElite's ErrorRate: 13.0%
+ 746-th training, BestElite's ErrorRate: 13.0%
+ 747-th training, BestElite's ErrorRate: 13.0%
+ 748-th training, BestElite's ErrorRate: 13.0%
+ 749-th training, BestElite's ErrorRate: 13.0%
+ 750-th training, BestElite's ErrorRate: 13.0%
+ 751-th training, BestElite's ErrorRate: 13.0%
+ 752-th training, BestElite's ErrorRate: 13.0%
+ 753-th training, BestElite's ErrorRate: 13.0%
+ 754-th training, BestElite's ErrorRate: 13.0%
+ 755-th training, BestElite's ErrorRate: 13.0%
+ 756-th training, BestElite's ErrorRate: 13.0%
+ 757-th training, BestElite's ErrorRate: 13.0%
+ 758-th training, BestElite's ErrorRate: 13.0%
+ 759-th training, BestElite's ErrorRate: 13.0%
+ 760-th training, BestElite's ErrorRate: 13.0%
+ 761-th training, BestElite's ErrorRate: 13.0%
+ 762-th training, BestElite's ErrorRate: 13.0%
+ 763-th training, BestElite's ErrorRate: 13.0%
+ 764-th training, BestElite's ErrorRate: 13.0%
+ 765-th training, BestElite's ErrorRate: 13.0%
+ 766-th training, BestElite's ErrorRate: 13.0%
+ 767-th training, BestElite's ErrorRate: 13.0%
+ 768-th training, BestElite's ErrorRate: 13.0%
+ 769-th training, BestElite's ErrorRate: 13.0%
+ 770-th training, BestElite's ErrorRate: 13.0%
+ 771-th training, BestElite's ErrorRate: 13.0%
+ 772-th training, BestElite's ErrorRate: 13.0%
+ 773-th training, BestElite's ErrorRate: 13.0%
+ 774-th training, BestElite's ErrorRate: 13.0%
+ 775-th training, BestElite's ErrorRate: 13.0%
+ 776-th training, BestElite's ErrorRate: 13.0%
+ 777-th training, BestElite's ErrorRate: 13.0%
+ 778-th training, BestElite's ErrorRate: 13.0%
+ 779-th training, BestElite's ErrorRate: 13.0%
+ 780-th training, BestElite's ErrorRate: 13.0%
+ 781-th training, BestElite's ErrorRate: 13.0%
+ 782-th training, BestElite's ErrorRate: 13.0%
+ 783-th training, BestElite's ErrorRate: 13.0%
+ 784-th training, BestElite's ErrorRate: 13.0%
+ 785-th training, BestElite's ErrorRate: 13.0%
+ 786-th training, BestElite's ErrorRate: 13.0%
+ 787-th training, BestElite's ErrorRate: 13.0%
+ 788-th training, BestElite's ErrorRate: 13.0%
+ 789-th training, BestElite's ErrorRate: 13.0%
+ 790-th training, BestElite's ErrorRate: 13.0%
+ 791-th training, BestElite's ErrorRate: 13.0%
+ 792-th training, BestElite's ErrorRate: 13.0%
+ 793-th training, BestElite's ErrorRate: 13.0%
+ 794-th training, BestElite's ErrorRate: 13.0%
+ 795-th training, BestElite's ErrorRate: 13.0%
+ 796-th training, BestElite's ErrorRate: 13.0%
+ 797-th training, BestElite's ErrorRate: 13.0%
+ 798-th training, BestElite's ErrorRate: 13.0%
+ 799-th training, BestElite's ErrorRate: 13.0%
+ 800-th training, BestElite's ErrorRate: 13.0%
+ 801-th training, BestElite's ErrorRate: 13.0%
+ 802-th training, BestElite's ErrorRate: 13.0%
+ 803-th training, BestElite's ErrorRate: 13.0%
+ 804-th training, BestElite's ErrorRate: 13.0%
+ 805-th training, BestElite's ErrorRate: 13.0%
+ 806-th training, BestElite's ErrorRate: 13.0%
+ 807-th training, BestElite's ErrorRate: 13.0%
+ 808-th training, BestElite's ErrorRate: 13.0%
+ 809-th training, BestElite's ErrorRate: 13.0%
+ 810-th training, BestElite's ErrorRate: 13.0%
+ 811-th training, BestElite's ErrorRate: 13.0%
+ 812-th training, BestElite's ErrorRate: 13.0%
+ 813-th training, BestElite's ErrorRate: 13.0%
+ 814-th training, BestElite's ErrorRate: 13.0%
+ 815-th training, BestElite's ErrorRate: 13.0%
+ 816-th training, BestElite's ErrorRate: 13.0%
+ 817-th training, BestElite's ErrorRate: 13.0%
+ 818-th training, BestElite's ErrorRate: 13.0%
+ 819-th training, BestElite's ErrorRate: 13.0%
+ 820-th training, BestElite's ErrorRate: 13.0%
+ 821-th training, BestElite's ErrorRate: 13.0%
+ 822-th training, BestElite's ErrorRate: 13.0%
+ 823-th training, BestElite's ErrorRate: 13.0%
+ 824-th training, BestElite's ErrorRate: 13.0%
+ 825-th training, BestElite's ErrorRate: 13.0%
+ 826-th training, BestElite's ErrorRate: 13.0%
+ 827-th training, BestElite's ErrorRate: 13.0%
+ 828-th training, BestElite's ErrorRate: 13.0%
+ 829-th training, BestElite's ErrorRate: 13.0%
+ 830-th training, BestElite's ErrorRate: 13.0%
+ 831-th training, BestElite's ErrorRate: 13.0%
+ 832-th training, BestElite's ErrorRate: 13.0%
+ 833-th training, BestElite's ErrorRate: 13.0%
+ 834-th training, BestElite's ErrorRate: 13.0%
+ 835-th training, BestElite's ErrorRate: 13.0%
+ 836-th training, BestElite's ErrorRate: 13.0%
+ 837-th training, BestElite's ErrorRate: 13.0%
+ 838-th training, BestElite's ErrorRate: 13.0%
+ 839-th training, BestElite's ErrorRate: 13.0%
+ 840-th training, BestElite's ErrorRate: 13.0%
+ 841-th training, BestElite's ErrorRate: 13.0%
+ 842-th training, BestElite's ErrorRate: 13.0%
+ 843-th training, BestElite's ErrorRate: 13.0%
+ 844-th training, BestElite's ErrorRate: 13.0%
+ 845-th training, BestElite's ErrorRate: 13.0%
+ 846-th training, BestElite's ErrorRate: 13.0%
+ 847-th training, BestElite's ErrorRate: 13.0%
+ 848-th training, BestElite's ErrorRate: 13.0%
+ 849-th training, BestElite's ErrorRate: 13.0%
+ 850-th training, BestElite's ErrorRate: 13.0%
+ 851-th training, BestElite's ErrorRate: 13.0%
+ 852-th training, BestElite's ErrorRate: 13.0%
+ 853-th training, BestElite's ErrorRate: 13.0%
+ 854-th training, BestElite's ErrorRate: 13.0%
+ 855-th training, BestElite's ErrorRate: 13.0%
+ 856-th training, BestElite's ErrorRate: 13.0%
+ 857-th training, BestElite's ErrorRate: 13.0%
+ 858-th training, BestElite's ErrorRate: 13.0%
+ 859-th training, BestElite's ErrorRate: 13.0%
+ 860-th training, BestElite's ErrorRate: 13.0%
+ 861-th training, BestElite's ErrorRate: 13.0%
+ 862-th training, BestElite's ErrorRate: 13.0%
+ 863-th training, BestElite's ErrorRate: 13.0%
+ 864-th training, BestElite's ErrorRate: 13.0%
+ 865-th training, BestElite's ErrorRate: 13.0%
+ 866-th training, BestElite's ErrorRate: 13.0%
+ 867-th training, BestElite's ErrorRate: 13.0%
+ 868-th training, BestElite's ErrorRate: 13.0%
+ 869-th training, BestElite's ErrorRate: 13.0%
+ 870-th training, BestElite's ErrorRate: 13.0%
+ 871-th training, BestElite's ErrorRate: 13.0%
+ 872-th training, BestElite's ErrorRate: 13.0%
+ 873-th training, BestElite's ErrorRate: 13.0%
+ 874-th training, BestElite's ErrorRate: 13.0%
+ 875-th training, BestElite's ErrorRate: 13.0%
+ 876-th training, BestElite's ErrorRate: 13.0%
+ 877-th training, BestElite's ErrorRate: 13.0%
+ 878-th training, BestElite's ErrorRate: 13.0%
+ 879-th training, BestElite's ErrorRate: 13.0%
+ 880-th training, BestElite's ErrorRate: 13.0%
+ 881-th training, BestElite's ErrorRate: 13.0%
+ 882-th training, BestElite's ErrorRate: 13.0%
+ 883-th training, BestElite's ErrorRate: 13.0%
+ 884-th training, BestElite's ErrorRate: 13.0%
+ 885-th training, BestElite's ErrorRate: 13.0%
+ 886-th training, BestElite's ErrorRate: 13.0%
+ 887-th training, BestElite's ErrorRate: 13.0%
+ 888-th training, BestElite's ErrorRate: 13.0%
+ 889-th training, BestElite's ErrorRate: 13.0%
+ 890-th training, BestElite's ErrorRate: 13.0%
+ 891-th training, BestElite's ErrorRate: 13.0%
+ 892-th training, BestElite's ErrorRate: 13.0%
+ 893-th training, BestElite's ErrorRate: 13.0%
+ 894-th training, BestElite's ErrorRate: 13.0%
+ 895-th training, BestElite's ErrorRate: 13.0%
+ 896-th training, BestElite's ErrorRate: 13.0%
+ 897-th training, BestElite's ErrorRate: 13.0%
+ 898-th training, BestElite's ErrorRate: 13.0%
+ 899-th training, BestElite's ErrorRate: 13.0%
+ 900-th training, BestElite's ErrorRate: 13.0%
+ 901-th training, BestElite's ErrorRate: 13.0%
+ 902-th training, BestElite's ErrorRate: 13.0%
+ 903-th training, BestElite's ErrorRate: 13.0%
+ 904-th training, BestElite's ErrorRate: 13.0%
+ 905-th training, BestElite's ErrorRate: 13.0%
+ 906-th training, BestElite's ErrorRate: 13.0%
+ 907-th training, BestElite's ErrorRate: 13.0%
+ 908-th training, BestElite's ErrorRate: 13.0%
+ 909-th training, BestElite's ErrorRate: 13.0%
+ 910-th training, BestElite's ErrorRate: 13.0%
+ 911-th training, BestElite's ErrorRate: 13.0%
+ 912-th training, BestElite's ErrorRate: 13.0%
+ 913-th training, BestElite's ErrorRate: 13.0%
+ 914-th training, BestElite's ErrorRate: 13.0%
+ 915-th training, BestElite's ErrorRate: 13.0%
+ 916-th training, BestElite's ErrorRate: 13.0%
+ 917-th training, BestElite's ErrorRate: 13.0%
+ 918-th training, BestElite's ErrorRate: 13.0%
+ 919-th training, BestElite's ErrorRate: 13.0%
+ 920-th training, BestElite's ErrorRate: 13.0%
+ 921-th training, BestElite's ErrorRate: 13.0%
+ 922-th training, BestElite's ErrorRate: 13.0%
+ 923-th training, BestElite's ErrorRate: 13.0%
+ 924-th training, BestElite's ErrorRate: 13.0%
+ 925-th training, BestElite's ErrorRate: 13.0%
+ 926-th training, BestElite's ErrorRate: 13.0%
+ 927-th training, BestElite's ErrorRate: 13.0%
+ 928-th training, BestElite's ErrorRate: 13.0%
+ 929-th training, BestElite's ErrorRate: 13.0%
+ 930-th training, BestElite's ErrorRate: 13.0%
+ 931-th training, BestElite's ErrorRate: 13.0%
+ 932-th training, BestElite's ErrorRate: 13.0%
+ 933-th training, BestElite's ErrorRate: 13.0%
+ 934-th training, BestElite's ErrorRate: 13.0%
+ 935-th training, BestElite's ErrorRate: 13.0%
+ 936-th training, BestElite's ErrorRate: 13.0%
+ 937-th training, BestElite's ErrorRate: 13.0%
+ 938-th training, BestElite's ErrorRate: 13.0%
+ 939-th training, BestElite's ErrorRate: 13.0%
+ 940-th training, BestElite's ErrorRate: 13.0%
+ 941-th training, BestElite's ErrorRate: 13.0%
+ 942-th training, BestElite's ErrorRate: 13.0%
+ 943-th training, BestElite's ErrorRate: 13.0%
+ 944-th training, BestElite's ErrorRate: 13.0%
+ 945-th training, BestElite's ErrorRate: 13.0%
+ 946-th training, BestElite's ErrorRate: 13.0%
+ 947-th training, BestElite's ErrorRate: 13.0%
+ 948-th training, BestElite's ErrorRate: 13.0%
+ 949-th training, BestElite's ErrorRate: 13.0%
+ 950-th training, BestElite's ErrorRate: 13.0%
+ 951-th training, BestElite's ErrorRate: 13.0%
+ 952-th training, BestElite's ErrorRate: 13.0%
+ 953-th training, BestElite's ErrorRate: 13.0%
+ 954-th training, BestElite's ErrorRate: 13.0%
+ 955-th training, BestElite's ErrorRate: 13.0%
+ 956-th training, BestElite's ErrorRate: 13.0%
+ 957-th training, BestElite's ErrorRate: 13.0%
+ 958-th training, BestElite's ErrorRate: 13.0%
+ 959-th training, BestElite's ErrorRate: 13.0%
+ 960-th training, BestElite's ErrorRate: 13.0%
+ 961-th training, BestElite's ErrorRate: 13.0%
+ 962-th training, BestElite's ErrorRate: 13.0%
+ 963-th training, BestElite's ErrorRate: 13.0%
+ 964-th training, BestElite's ErrorRate: 13.0%
+ 965-th training, BestElite's ErrorRate: 13.0%
+ 966-th training, BestElite's ErrorRate: 13.0%
+ 967-th training, BestElite's ErrorRate: 13.0%
+ 968-th training, BestElite's ErrorRate: 13.0%
+ 969-th training, BestElite's ErrorRate: 13.0%
+ 970-th training, BestElite's ErrorRate: 13.0%
+ 971-th training, BestElite's ErrorRate: 13.0%
+ 972-th training, BestElite's ErrorRate: 13.0%
+ 973-th training, BestElite's ErrorRate: 13.0%
+ 974-th training, BestElite's ErrorRate: 13.0%
+ 975-th training, BestElite's ErrorRate: 13.0%
+ 976-th training, BestElite's ErrorRate: 13.0%
+ 977-th training, BestElite's ErrorRate: 13.0%
+ 978-th training, BestElite's ErrorRate: 13.0%
+ 979-th training, BestElite's ErrorRate: 13.0%
+ 980-th training, BestElite's ErrorRate: 13.0%
+ 981-th training, BestElite's ErrorRate: 13.0%
+ 982-th training, BestElite's ErrorRate: 13.0%
+ 983-th training, BestElite's ErrorRate: 13.0%
+ 984-th training, BestElite's ErrorRate: 13.0%
+ 985-th training, BestElite's ErrorRate: 13.0%
+ 986-th training, BestElite's ErrorRate: 13.0%
+ 987-th training, BestElite's ErrorRate: 13.0%
+ 988-th training, BestElite's ErrorRate: 13.0%
+ 989-th training, BestElite's ErrorRate: 13.0%
+ 990-th training, BestElite's ErrorRate: 13.0%
+ 991-th training, BestElite's ErrorRate: 13.0%
+ 992-th training, BestElite's ErrorRate: 13.0%
+ 993-th training, BestElite's ErrorRate: 13.0%
+ 994-th training, BestElite's ErrorRate: 13.0%
+ 995-th training, BestElite's ErrorRate: 13.0%
+ 996-th training, BestElite's ErrorRate: 13.0%
+ 997-th training, BestElite's ErrorRate: 13.0%
+ 998-th training, BestElite's ErrorRate: 13.0%
+ 999-th training, BestElite's ErrorRate: 13.0%
+1000-th training, BestElite's ErrorRate: 13.0%
+1001-th training, BestElite's ErrorRate: 13.0%
+1002-th training, BestElite's ErrorRate: 13.0%
+1003-th training, BestElite's ErrorRate: 13.0%
+1004-th training, BestElite's ErrorRate: 13.0%
+1005-th training, BestElite's ErrorRate: 13.0%
+1006-th training, BestElite's ErrorRate: 13.0%
+1007-th training, BestElite's ErrorRate: 13.0%
+1008-th training, BestElite's ErrorRate: 13.0%
+1009-th training, BestElite's ErrorRate: 13.0%
+1010-th training, BestElite's ErrorRate: 13.0%
+1011-th training, BestElite's ErrorRate: 13.0%
+1012-th training, BestElite's ErrorRate: 13.0%
+1013-th training, BestElite's ErrorRate: 13.0%
+1014-th training, BestElite's ErrorRate: 13.0%
+1015-th training, BestElite's ErrorRate: 13.0%
+1016-th training, BestElite's ErrorRate: 13.0%
+1017-th training, BestElite's ErrorRate: 13.0%
+1018-th training, BestElite's ErrorRate: 13.0%
+1019-th training, BestElite's ErrorRate: 13.0%
+1020-th training, BestElite's ErrorRate: 13.0%
+1021-th training, BestElite's ErrorRate: 13.0%
+1022-th training, BestElite's ErrorRate: 13.0%
+1023-th training, BestElite's ErrorRate: 13.0%
+1024-th training, BestElite's ErrorRate: 13.0%
+1025-th training, BestElite's ErrorRate: 13.0%
+1026-th training, BestElite's ErrorRate: 13.0%
+1027-th training, BestElite's ErrorRate: 13.0%
+1028-th training, BestElite's ErrorRate: 13.0%
+1029-th training, BestElite's ErrorRate: 13.0%
+1030-th training, BestElite's ErrorRate: 13.0%
+1031-th training, BestElite's ErrorRate: 13.0%
+1032-th training, BestElite's ErrorRate: 13.0%
+1033-th training, BestElite's ErrorRate: 13.0%
+1034-th training, BestElite's ErrorRate: 13.0%
+1035-th training, BestElite's ErrorRate: 13.0%
+1036-th training, BestElite's ErrorRate: 13.0%
+1037-th training, BestElite's ErrorRate: 13.0%
+1038-th training, BestElite's ErrorRate: 13.0%
+1039-th training, BestElite's ErrorRate: 13.0%
+1040-th training, BestElite's ErrorRate: 13.0%
+1041-th training, BestElite's ErrorRate: 13.0%
+1042-th training, BestElite's ErrorRate: 13.0%
+1043-th training, BestElite's ErrorRate: 13.0%
+1044-th training, BestElite's ErrorRate: 13.0%
+1045-th training, BestElite's ErrorRate: 13.0%
+1046-th training, BestElite's ErrorRate: 13.0%
+1047-th training, BestElite's ErrorRate: 13.0%
+1048-th training, BestElite's ErrorRate: 13.0%
+1049-th training, BestElite's ErrorRate: 13.0%
+1050-th training, BestElite's ErrorRate: 13.0%
+1051-th training, BestElite's ErrorRate: 13.0%
+1052-th training, BestElite's ErrorRate: 13.0%
+1053-th training, BestElite's ErrorRate: 13.0%
+1054-th training, BestElite's ErrorRate: 13.0%
+1055-th training, BestElite's ErrorRate: 13.0%
+1056-th training, BestElite's ErrorRate: 13.0%
+1057-th training, BestElite's ErrorRate: 13.0%
+1058-th training, BestElite's ErrorRate: 13.0%
+1059-th training, BestElite's ErrorRate: 13.0%
+1060-th training, BestElite's ErrorRate: 13.0%
+1061-th training, BestElite's ErrorRate: 13.0%
+1062-th training, BestElite's ErrorRate: 13.0%
+1063-th training, BestElite's ErrorRate: 13.0%
+1064-th training, BestElite's ErrorRate: 13.0%
+1065-th training, BestElite's ErrorRate: 13.0%
+1066-th training, BestElite's ErrorRate: 13.0%
+1067-th training, BestElite's ErrorRate: 13.0%
+1068-th training, BestElite's ErrorRate: 13.0%
+1069-th training, BestElite's ErrorRate: 13.0%
+1070-th training, BestElite's ErrorRate: 13.0%
+1071-th training, BestElite's ErrorRate: 13.0%
+1072-th training, BestElite's ErrorRate: 13.0%
+1073-th training, BestElite's ErrorRate: 13.0%
+1074-th training, BestElite's ErrorRate: 13.0%
+1075-th training, BestElite's ErrorRate: 13.0%
+1076-th training, BestElite's ErrorRate: 13.0%
+1077-th training, BestElite's ErrorRate: 13.0%
+1078-th training, BestElite's ErrorRate: 13.0%
+1079-th training, BestElite's ErrorRate: 13.0%
+1080-th training, BestElite's ErrorRate: 13.0%
+1081-th training, BestElite's ErrorRate: 13.0%
+1082-th training, BestElite's ErrorRate: 13.0%
+1083-th training, BestElite's ErrorRate: 13.0%
+1084-th training, BestElite's ErrorRate: 13.0%
+1085-th training, BestElite's ErrorRate: 13.0%
+1086-th training, BestElite's ErrorRate: 13.0%
+1087-th training, BestElite's ErrorRate: 13.0%
+1088-th training, BestElite's ErrorRate: 13.0%
+1089-th training, BestElite's ErrorRate: 13.0%
+1090-th training, BestElite's ErrorRate: 13.0%
+1091-th training, BestElite's ErrorRate: 13.0%
+1092-th training, BestElite's ErrorRate: 13.0%
+1093-th training, BestElite's ErrorRate: 13.0%
+1094-th training, BestElite's ErrorRate: 13.0%
+1095-th training, BestElite's ErrorRate: 13.0%
+1096-th training, BestElite's ErrorRate: 13.0%
+1097-th training, BestElite's ErrorRate: 13.0%
+1098-th training, BestElite's ErrorRate: 13.0%
+1099-th training, BestElite's ErrorRate: 13.0%
+1100-th training, BestElite's ErrorRate: 13.0%
+1101-th training, BestElite's ErrorRate: 13.0%
+1102-th training, BestElite's ErrorRate: 13.0%
+1103-th training, BestElite's ErrorRate: 13.0%
+1104-th training, BestElite's ErrorRate: 13.0%
+1105-th training, BestElite's ErrorRate: 13.0%
+1106-th training, BestElite's ErrorRate: 13.0%
+1107-th training, BestElite's ErrorRate: 13.0%
+1108-th training, BestElite's ErrorRate: 13.0%
+1109-th training, BestElite's ErrorRate: 13.0%
+1110-th training, BestElite's ErrorRate: 13.0%
+1111-th training, BestElite's ErrorRate: 13.0%
+1112-th training, BestElite's ErrorRate: 13.0%
+1113-th training, BestElite's ErrorRate: 13.0%
+1114-th training, BestElite's ErrorRate: 13.0%
+1115-th training, BestElite's ErrorRate: 13.0%
+1116-th training, BestElite's ErrorRate: 13.0%
+1117-th training, BestElite's ErrorRate: 13.0%
+1118-th training, BestElite's ErrorRate: 13.0%
+1119-th training, BestElite's ErrorRate: 13.0%
+1120-th training, BestElite's ErrorRate: 13.0%
+1121-th training, BestElite's ErrorRate: 13.0%
+1122-th training, BestElite's ErrorRate: 13.0%
+1123-th training, BestElite's ErrorRate: 13.0%
+1124-th training, BestElite's ErrorRate: 13.0%
+1125-th training, BestElite's ErrorRate: 13.0%
+1126-th training, BestElite's ErrorRate: 13.0%
+1127-th training, BestElite's ErrorRate: 13.0%
+1128-th training, BestElite's ErrorRate: 13.0%
+1129-th training, BestElite's ErrorRate: 13.0%
+1130-th training, BestElite's ErrorRate: 13.0%
+1131-th training, BestElite's ErrorRate: 13.0%
+1132-th training, BestElite's ErrorRate: 13.0%
+1133-th training, BestElite's ErrorRate: 13.0%
+1134-th training, BestElite's ErrorRate: 13.0%
+1135-th training, BestElite's ErrorRate: 13.0%
+1136-th training, BestElite's ErrorRate: 13.0%
+1137-th training, BestElite's ErrorRate: 13.0%
+1138-th training, BestElite's ErrorRate: 13.0%
+1139-th training, BestElite's ErrorRate: 13.0%
+1140-th training, BestElite's ErrorRate: 13.0%
+1141-th training, BestElite's ErrorRate: 13.0%
+1142-th training, BestElite's ErrorRate: 13.0%
+1143-th training, BestElite's ErrorRate: 13.0%
+1144-th training, BestElite's ErrorRate: 13.0%
+1145-th training, BestElite's ErrorRate: 13.0%
+1146-th training, BestElite's ErrorRate: 13.0%
+1147-th training, BestElite's ErrorRate: 13.0%
+1148-th training, BestElite's ErrorRate: 13.0%
+1149-th training, BestElite's ErrorRate: 13.0%
+1150-th training, BestElite's ErrorRate: 13.0%
+1151-th training, BestElite's ErrorRate: 13.0%
+1152-th training, BestElite's ErrorRate: 13.0%
+1153-th training, BestElite's ErrorRate: 13.0%
+1154-th training, BestElite's ErrorRate: 13.0%
+1155-th training, BestElite's ErrorRate: 13.0%
+1156-th training, BestElite's ErrorRate: 13.0%
+1157-th training, BestElite's ErrorRate: 13.0%
+1158-th training, BestElite's ErrorRate: 13.0%
+1159-th training, BestElite's ErrorRate: 13.0%
+1160-th training, BestElite's ErrorRate: 13.0%
+1161-th training, BestElite's ErrorRate: 13.0%
+1162-th training, BestElite's ErrorRate: 13.0%
+1163-th training, BestElite's ErrorRate: 13.0%
+1164-th training, BestElite's ErrorRate: 13.0%
+1165-th training, BestElite's ErrorRate: 13.0%
+1166-th training, BestElite's ErrorRate: 13.0%
+1167-th training, BestElite's ErrorRate: 13.0%
+1168-th training, BestElite's ErrorRate: 13.0%
+1169-th training, BestElite's ErrorRate: 13.0%
+1170-th training, BestElite's ErrorRate: 13.0%
+1171-th training, BestElite's ErrorRate: 13.0%
+1172-th training, BestElite's ErrorRate: 13.0%
+1173-th training, BestElite's ErrorRate: 13.0%
+1174-th training, BestElite's ErrorRate: 13.0%
+1175-th training, BestElite's ErrorRate: 13.0%
+1176-th training, BestElite's ErrorRate: 13.0%
+1177-th training, BestElite's ErrorRate: 13.0%
+1178-th training, BestElite's ErrorRate: 13.0%
+1179-th training, BestElite's ErrorRate: 13.0%
+1180-th training, BestElite's ErrorRate: 13.0%
+1181-th training, BestElite's ErrorRate: 13.0%
+1182-th training, BestElite's ErrorRate: 13.0%
+1183-th training, BestElite's ErrorRate: 13.0%
+1184-th training, BestElite's ErrorRate: 13.0%
+1185-th training, BestElite's ErrorRate: 13.0%
+1186-th training, BestElite's ErrorRate: 13.0%
+1187-th training, BestElite's ErrorRate: 13.0%
+1188-th training, BestElite's ErrorRate: 13.0%
+1189-th training, BestElite's ErrorRate: 13.0%
+1190-th training, BestElite's ErrorRate: 13.0%
+1191-th training, BestElite's ErrorRate: 13.0%
+1192-th training, BestElite's ErrorRate: 13.0%
+1193-th training, BestElite's ErrorRate: 13.0%
+1194-th training, BestElite's ErrorRate: 13.0%
+1195-th training, BestElite's ErrorRate: 13.0%
+1196-th training, BestElite's ErrorRate: 13.0%
+1197-th training, BestElite's ErrorRate: 13.0%
+1198-th training, BestElite's ErrorRate: 13.0%
+1199-th training, BestElite's ErrorRate: 13.0%
+1200-th training, BestElite's ErrorRate: 13.0%
+1201-th training, BestElite's ErrorRate: 13.0%
+1202-th training, BestElite's ErrorRate: 13.0%
+1203-th training, BestElite's ErrorRate: 13.0%
+1204-th training, BestElite's ErrorRate: 13.0%
+1205-th training, BestElite's ErrorRate: 13.0%
+1206-th training, BestElite's ErrorRate: 13.0%
+1207-th training, BestElite's ErrorRate: 13.0%
+1208-th training, BestElite's ErrorRate: 13.0%
+1209-th training, BestElite's ErrorRate: 13.0%
+1210-th training, BestElite's ErrorRate: 13.0%
+1211-th training, BestElite's ErrorRate: 13.0%
+1212-th training, BestElite's ErrorRate: 13.0%
+1213-th training, BestElite's ErrorRate: 13.0%
+1214-th training, BestElite's ErrorRate: 13.0%
+1215-th training, BestElite's ErrorRate: 13.0%
+1216-th training, BestElite's ErrorRate: 13.0%
+1217-th training, BestElite's ErrorRate: 13.0%
+1218-th training, BestElite's ErrorRate: 13.0%
+1219-th training, BestElite's ErrorRate: 13.0%
+1220-th training, BestElite's ErrorRate: 13.0%
+1221-th training, BestElite's ErrorRate: 13.0%
+1222-th training, BestElite's ErrorRate: 13.0%
+1223-th training, BestElite's ErrorRate: 13.0%
+1224-th training, BestElite's ErrorRate: 13.0%
+1225-th training, BestElite's ErrorRate: 13.0%
+1226-th training, BestElite's ErrorRate: 13.0%
+1227-th training, BestElite's ErrorRate: 13.0%
+1228-th training, BestElite's ErrorRate: 13.0%
+1229-th training, BestElite's ErrorRate: 13.0%
+1230-th training, BestElite's ErrorRate: 13.0%
+1231-th training, BestElite's ErrorRate: 13.0%
+1232-th training, BestElite's ErrorRate: 13.0%
+1233-th training, BestElite's ErrorRate: 13.0%
+1234-th training, BestElite's ErrorRate: 13.0%
+1235-th training, BestElite's ErrorRate: 13.0%
+1236-th training, BestElite's ErrorRate: 13.0%
+1237-th training, BestElite's ErrorRate: 13.0%
+1238-th training, BestElite's ErrorRate: 13.0%
+1239-th training, BestElite's ErrorRate: 13.0%
+1240-th training, BestElite's ErrorRate: 13.0%
+1241-th training, BestElite's ErrorRate: 13.0%
+1242-th training, BestElite's ErrorRate: 13.0%
+1243-th training, BestElite's ErrorRate: 13.0%
+1244-th training, BestElite's ErrorRate: 13.0%
+1245-th training, BestElite's ErrorRate: 13.0%
+1246-th training, BestElite's ErrorRate: 13.0%
+1247-th training, BestElite's ErrorRate: 13.0%
+1248-th training, BestElite's ErrorRate: 13.0%
+1249-th training, BestElite's ErrorRate: 13.0%
+1250-th training, BestElite's ErrorRate: 13.0%
+1251-th training, BestElite's ErrorRate: 13.0%
+1252-th training, BestElite's ErrorRate: 13.0%
+1253-th training, BestElite's ErrorRate: 13.0%
+1254-th training, BestElite's ErrorRate: 13.0%
+1255-th training, BestElite's ErrorRate: 13.0%
+1256-th training, BestElite's ErrorRate: 13.0%
+1257-th training, BestElite's ErrorRate: 13.0%
+1258-th training, BestElite's ErrorRate: 13.0%
+1259-th training, BestElite's ErrorRate: 13.0%
+1260-th training, BestElite's ErrorRate: 13.0%
+1261-th training, BestElite's ErrorRate: 13.0%
+1262-th training, BestElite's ErrorRate: 13.0%
+1263-th training, BestElite's ErrorRate: 13.0%
+1264-th training, BestElite's ErrorRate: 13.0%
+1265-th training, BestElite's ErrorRate: 13.0%
+1266-th training, BestElite's ErrorRate: 13.0%
+1267-th training, BestElite's ErrorRate: 13.0%
+1268-th training, BestElite's ErrorRate: 13.0%
+1269-th training, BestElite's ErrorRate: 13.0%
+1270-th training, BestElite's ErrorRate: 13.0%
+1271-th training, BestElite's ErrorRate: 13.0%
+1272-th training, BestElite's ErrorRate: 13.0%
+1273-th training, BestElite's ErrorRate: 13.0%
+1274-th training, BestElite's ErrorRate: 13.0%
+1275-th training, BestElite's ErrorRate: 13.0%
+1276-th training, BestElite's ErrorRate: 13.0%
+1277-th training, BestElite's ErrorRate: 13.0%
+1278-th training, BestElite's ErrorRate: 13.0%
+1279-th training, BestElite's ErrorRate: 13.0%
+1280-th training, BestElite's ErrorRate: 13.0%
+1281-th training, BestElite's ErrorRate: 13.0%
+1282-th training, BestElite's ErrorRate: 13.0%
+1283-th training, BestElite's ErrorRate: 13.0%
+1284-th training, BestElite's ErrorRate: 13.0%
+1285-th training, BestElite's ErrorRate: 13.0%
+1286-th training, BestElite's ErrorRate: 13.0%
+1287-th training, BestElite's ErrorRate: 13.0%
+1288-th training, BestElite's ErrorRate: 13.0%
+1289-th training, BestElite's ErrorRate: 13.0%
+1290-th training, BestElite's ErrorRate: 13.0%
+1291-th training, BestElite's ErrorRate: 13.0%
+1292-th training, BestElite's ErrorRate: 13.0%
+1293-th training, BestElite's ErrorRate: 13.0%
+1294-th training, BestElite's ErrorRate: 13.0%
+1295-th training, BestElite's ErrorRate: 13.0%
+1296-th training, BestElite's ErrorRate: 13.0%
+1297-th training, BestElite's ErrorRate: 13.0%
+1298-th training, BestElite's ErrorRate: 13.0%
+1299-th training, BestElite's ErrorRate: 13.0%
+1300-th training, BestElite's ErrorRate: 13.0%
+1301-th training, BestElite's ErrorRate: 13.0%
+1302-th training, BestElite's ErrorRate: 13.0%
+1303-th training, BestElite's ErrorRate: 13.0%
+1304-th training, BestElite's ErrorRate: 13.0%
+1305-th training, BestElite's ErrorRate: 13.0%
+1306-th training, BestElite's ErrorRate: 13.0%
+1307-th training, BestElite's ErrorRate: 13.0%
+1308-th training, BestElite's ErrorRate: 13.0%
+1309-th training, BestElite's ErrorRate: 13.0%
+1310-th training, BestElite's ErrorRate: 13.0%
+1311-th training, BestElite's ErrorRate: 13.0%
+1312-th training, BestElite's ErrorRate: 13.0%
+1313-th training, BestElite's ErrorRate: 13.0%
+1314-th training, BestElite's ErrorRate: 13.0%
+1315-th training, BestElite's ErrorRate: 13.0%
+1316-th training, BestElite's ErrorRate: 13.0%
+1317-th training, BestElite's ErrorRate: 13.0%
+1318-th training, BestElite's ErrorRate: 13.0%
+1319-th training, BestElite's ErrorRate: 13.0%
+1320-th training, BestElite's ErrorRate: 13.0%
+1321-th training, BestElite's ErrorRate: 13.0%
+1322-th training, BestElite's ErrorRate: 13.0%
+1323-th training, BestElite's ErrorRate: 13.0%
+1324-th training, BestElite's ErrorRate: 13.0%
+1325-th training, BestElite's ErrorRate: 13.0%
+1326-th training, BestElite's ErrorRate: 13.0%
+1327-th training, BestElite's ErrorRate: 13.0%
+1328-th training, BestElite's ErrorRate: 13.0%
+1329-th training, BestElite's ErrorRate: 13.0%
+1330-th training, BestElite's ErrorRate: 13.0%
+1331-th training, BestElite's ErrorRate: 13.0%
+1332-th training, BestElite's ErrorRate: 13.0%
+1333-th training, BestElite's ErrorRate: 13.0%
+1334-th training, BestElite's ErrorRate: 13.0%
+1335-th training, BestElite's ErrorRate: 13.0%
+1336-th training, BestElite's ErrorRate: 13.0%
+1337-th training, BestElite's ErrorRate: 13.0%
+1338-th training, BestElite's ErrorRate: 13.0%
+1339-th training, BestElite's ErrorRate: 13.0%
+1340-th training, BestElite's ErrorRate: 13.0%
+1341-th training, BestElite's ErrorRate: 13.0%
+1342-th training, BestElite's ErrorRate: 13.0%
+1343-th training, BestElite's ErrorRate: 13.0%
+1344-th training, BestElite's ErrorRate: 13.0%
+1345-th training, BestElite's ErrorRate: 13.0%
+1346-th training, BestElite's ErrorRate: 13.0%
+1347-th training, BestElite's ErrorRate: 13.0%
+1348-th training, BestElite's ErrorRate: 13.0%
+1349-th training, BestElite's ErrorRate: 13.0%
+1350-th training, BestElite's ErrorRate: 13.0%
+1351-th training, BestElite's ErrorRate: 13.0%
+1352-th training, BestElite's ErrorRate: 13.0%
+1353-th training, BestElite's ErrorRate: 13.0%
+1354-th training, BestElite's ErrorRate: 13.0%
+1355-th training, BestElite's ErrorRate: 13.0%
+1356-th training, BestElite's ErrorRate: 13.0%
+1357-th training, BestElite's ErrorRate: 13.0%
+1358-th training, BestElite's ErrorRate: 13.0%
+1359-th training, BestElite's ErrorRate: 13.0%
+1360-th training, BestElite's ErrorRate: 13.0%
+1361-th training, BestElite's ErrorRate: 13.0%
+1362-th training, BestElite's ErrorRate: 13.0%
+1363-th training, BestElite's ErrorRate: 13.0%
+1364-th training, BestElite's ErrorRate: 13.0%
+1365-th training, BestElite's ErrorRate: 13.0%
+1366-th training, BestElite's ErrorRate: 13.0%
+1367-th training, BestElite's ErrorRate: 13.0%
+1368-th training, BestElite's ErrorRate: 13.0%
+1369-th training, BestElite's ErrorRate: 13.0%
+1370-th training, BestElite's ErrorRate: 13.0%
+1371-th training, BestElite's ErrorRate: 13.0%
+1372-th training, BestElite's ErrorRate: 13.0%
+1373-th training, BestElite's ErrorRate: 13.0%
+1374-th training, BestElite's ErrorRate: 13.0%
+1375-th training, BestElite's ErrorRate: 13.0%
+1376-th training, BestElite's ErrorRate: 13.0%
+1377-th training, BestElite's ErrorRate: 13.0%
+1378-th training, BestElite's ErrorRate: 13.0%
+1379-th training, BestElite's ErrorRate: 13.0%
+1380-th training, BestElite's ErrorRate: 13.0%
+1381-th training, BestElite's ErrorRate: 13.0%
+1382-th training, BestElite's ErrorRate: 13.0%
+1383-th training, BestElite's ErrorRate: 13.0%
+1384-th training, BestElite's ErrorRate: 13.0%
+1385-th training, BestElite's ErrorRate: 13.0%
+1386-th training, BestElite's ErrorRate: 13.0%
+1387-th training, BestElite's ErrorRate: 13.0%
+1388-th training, BestElite's ErrorRate: 13.0%
+1389-th training, BestElite's ErrorRate: 13.0%
+1390-th training, BestElite's ErrorRate: 13.0%
+1391-th training, BestElite's ErrorRate: 13.0%
+1392-th training, BestElite's ErrorRate: 13.0%
+1393-th training, BestElite's ErrorRate: 13.0%
+1394-th training, BestElite's ErrorRate: 13.0%
+1395-th training, BestElite's ErrorRate: 13.0%
+1396-th training, BestElite's ErrorRate: 13.0%
+1397-th training, BestElite's ErrorRate: 13.0%
+1398-th training, BestElite's ErrorRate: 13.0%
+1399-th training, BestElite's ErrorRate: 13.0%
+1400-th training, BestElite's ErrorRate: 13.0%
+1401-th training, BestElite's ErrorRate: 13.0%
+1402-th training, BestElite's ErrorRate: 13.0%
+1403-th training, BestElite's ErrorRate: 13.0%
+1404-th training, BestElite's ErrorRate: 13.0%
+1405-th training, BestElite's ErrorRate: 13.0%
+1406-th training, BestElite's ErrorRate: 13.0%
+1407-th training, BestElite's ErrorRate: 13.0%
+1408-th training, BestElite's ErrorRate: 13.0%
+1409-th training, BestElite's ErrorRate: 13.0%
+1410-th training, BestElite's ErrorRate: 13.0%
+1411-th training, BestElite's ErrorRate: 13.0%
+1412-th training, BestElite's ErrorRate: 13.0%
+1413-th training, BestElite's ErrorRate: 13.0%
+1414-th training, BestElite's ErrorRate: 13.0%
+1415-th training, BestElite's ErrorRate: 13.0%
+1416-th training, BestElite's ErrorRate: 13.0%
+1417-th training, BestElite's ErrorRate: 13.0%
+1418-th training, BestElite's ErrorRate: 13.0%
+1419-th training, BestElite's ErrorRate: 13.0%
+1420-th training, BestElite's ErrorRate: 13.0%
+1421-th training, BestElite's ErrorRate: 13.0%
+1422-th training, BestElite's ErrorRate: 13.0%
+1423-th training, BestElite's ErrorRate: 13.0%
+1424-th training, BestElite's ErrorRate: 13.0%
+1425-th training, BestElite's ErrorRate: 13.0%
+1426-th training, BestElite's ErrorRate: 13.0%
+1427-th training, BestElite's ErrorRate: 13.0%
+1428-th training, BestElite's ErrorRate: 13.0%
+1429-th training, BestElite's ErrorRate: 13.0%
+1430-th training, BestElite's ErrorRate: 13.0%
+1431-th training, BestElite's ErrorRate: 13.0%
+1432-th training, BestElite's ErrorRate: 13.0%
+1433-th training, BestElite's ErrorRate: 13.0%
+1434-th training, BestElite's ErrorRate: 13.0%
+1435-th training, BestElite's ErrorRate: 13.0%
+1436-th training, BestElite's ErrorRate: 13.0%
+1437-th training, BestElite's ErrorRate: 13.0%
+1438-th training, BestElite's ErrorRate: 13.0%
+1439-th training, BestElite's ErrorRate: 13.0%
+1440-th training, BestElite's ErrorRate: 13.0%
+1441-th training, BestElite's ErrorRate: 13.0%
+1442-th training, BestElite's ErrorRate: 13.0%
+1443-th training, BestElite's ErrorRate: 13.0%
+1444-th training, BestElite's ErrorRate: 13.0%
+1445-th training, BestElite's ErrorRate: 13.0%
+1446-th training, BestElite's ErrorRate: 13.0%
+1447-th training, BestElite's ErrorRate: 13.0%
+1448-th training, BestElite's ErrorRate: 13.0%
+1449-th training, BestElite's ErrorRate: 13.0%
+1450-th training, BestElite's ErrorRate: 13.0%
+1451-th training, BestElite's ErrorRate: 13.0%
+1452-th training, BestElite's ErrorRate: 13.0%
+1453-th training, BestElite's ErrorRate: 13.0%
+1454-th training, BestElite's ErrorRate: 13.0%
+1455-th training, BestElite's ErrorRate: 13.0%
+1456-th training, BestElite's ErrorRate: 13.0%
+1457-th training, BestElite's ErrorRate: 13.0%
+1458-th training, BestElite's ErrorRate: 13.0%
+1459-th training, BestElite's ErrorRate: 13.0%
+1460-th training, BestElite's ErrorRate: 13.0%
+1461-th training, BestElite's ErrorRate: 13.0%
+1462-th training, BestElite's ErrorRate: 13.0%
+1463-th training, BestElite's ErrorRate: 13.0%
+1464-th training, BestElite's ErrorRate: 13.0%
+1465-th training, BestElite's ErrorRate: 13.0%
+1466-th training, BestElite's ErrorRate: 13.0%
+1467-th training, BestElite's ErrorRate: 13.0%
+1468-th training, BestElite's ErrorRate: 13.0%
+1469-th training, BestElite's ErrorRate: 13.0%
+1470-th training, BestElite's ErrorRate: 13.0%
+1471-th training, BestElite's ErrorRate: 13.0%
+1472-th training, BestElite's ErrorRate: 13.0%
+1473-th training, BestElite's ErrorRate: 13.0%
+1474-th training, BestElite's ErrorRate: 13.0%
+1475-th training, BestElite's ErrorRate: 13.0%
+1476-th training, BestElite's ErrorRate: 13.0%
+1477-th training, BestElite's ErrorRate: 13.0%
+1478-th training, BestElite's ErrorRate: 13.0%
+1479-th training, BestElite's ErrorRate: 13.0%
+1480-th training, BestElite's ErrorRate: 13.0%
+1481-th training, BestElite's ErrorRate: 13.0%
+1482-th training, BestElite's ErrorRate: 13.0%
+1483-th training, BestElite's ErrorRate: 13.0%
+1484-th training, BestElite's ErrorRate: 13.0%
+1485-th training, BestElite's ErrorRate: 13.0%
+1486-th training, BestElite's ErrorRate: 13.0%
+1487-th training, BestElite's ErrorRate: 13.0%
+1488-th training, BestElite's ErrorRate: 13.0%
+1489-th training, BestElite's ErrorRate: 13.0%
+1490-th training, BestElite's ErrorRate: 13.0%
+1491-th training, BestElite's ErrorRate: 13.0%
+1492-th training, BestElite's ErrorRate: 13.0%
+1493-th training, BestElite's ErrorRate: 13.0%
+1494-th training, BestElite's ErrorRate: 13.0%
+1495-th training, BestElite's ErrorRate: 13.0%
+1496-th training, BestElite's ErrorRate: 13.0%
+1497-th training, BestElite's ErrorRate: 13.0%
+1498-th training, BestElite's ErrorRate: 13.0%
+1499-th training, BestElite's ErrorRate: 13.0%
+1500-th training, BestElite's ErrorRate: 13.0%
+1501-th training, BestElite's ErrorRate: 13.0%
+1502-th training, BestElite's ErrorRate: 13.0%
+1503-th training, BestElite's ErrorRate: 13.0%
+1504-th training, BestElite's ErrorRate: 13.0%
+1505-th training, BestElite's ErrorRate: 13.0%
+1506-th training, BestElite's ErrorRate: 13.0%
+1507-th training, BestElite's ErrorRate: 13.0%
+1508-th training, BestElite's ErrorRate: 13.0%
+1509-th training, BestElite's ErrorRate: 13.0%
+1510-th training, BestElite's ErrorRate: 13.0%
+1511-th training, BestElite's ErrorRate: 13.0%
+1512-th training, BestElite's ErrorRate: 13.0%
+1513-th training, BestElite's ErrorRate: 13.0%
+1514-th training, BestElite's ErrorRate: 13.0%
+1515-th training, BestElite's ErrorRate: 13.0%
+1516-th training, BestElite's ErrorRate: 13.0%
+1517-th training, BestElite's ErrorRate: 13.0%
+1518-th training, BestElite's ErrorRate: 13.0%
+1519-th training, BestElite's ErrorRate: 13.0%
+1520-th training, BestElite's ErrorRate: 13.0%
+1521-th training, BestElite's ErrorRate: 13.0%
+1522-th training, BestElite's ErrorRate: 13.0%
+1523-th training, BestElite's ErrorRate: 13.0%
+1524-th training, BestElite's ErrorRate: 13.0%
+1525-th training, BestElite's ErrorRate: 13.0%
+1526-th training, BestElite's ErrorRate: 13.0%
+1527-th training, BestElite's ErrorRate: 13.0%
+1528-th training, BestElite's ErrorRate: 13.0%
+1529-th training, BestElite's ErrorRate: 13.0%
+1530-th training, BestElite's ErrorRate: 13.0%
+1531-th training, BestElite's ErrorRate: 13.0%
+1532-th training, BestElite's ErrorRate: 13.0%
+1533-th training, BestElite's ErrorRate: 13.0%
+1534-th training, BestElite's ErrorRate: 13.0%
+1535-th training, BestElite's ErrorRate: 13.0%
+1536-th training, BestElite's ErrorRate: 13.0%
+1537-th training, BestElite's ErrorRate: 13.0%
+1538-th training, BestElite's ErrorRate: 13.0%
+1539-th training, BestElite's ErrorRate: 13.0%
+1540-th training, BestElite's ErrorRate: 13.0%
+1541-th training, BestElite's ErrorRate: 13.0%
+1542-th training, BestElite's ErrorRate: 13.0%
+1543-th training, BestElite's ErrorRate: 13.0%
+1544-th training, BestElite's ErrorRate: 13.0%
+1545-th training, BestElite's ErrorRate: 13.0%
+1546-th training, BestElite's ErrorRate: 13.0%
+1547-th training, BestElite's ErrorRate: 13.0%
+1548-th training, BestElite's ErrorRate: 13.0%
+1549-th training, BestElite's ErrorRate: 13.0%
+1550-th training, BestElite's ErrorRate: 13.0%
+1551-th training, BestElite's ErrorRate: 13.0%
+1552-th training, BestElite's ErrorRate: 13.0%
+1553-th training, BestElite's ErrorRate: 13.0%
+1554-th training, BestElite's ErrorRate: 13.0%
+1555-th training, BestElite's ErrorRate: 13.0%
+1556-th training, BestElite's ErrorRate: 13.0%
+1557-th training, BestElite's ErrorRate: 13.0%
+1558-th training, BestElite's ErrorRate: 13.0%
+1559-th training, BestElite's ErrorRate: 13.0%
+1560-th training, BestElite's ErrorRate: 13.0%
+1561-th training, BestElite's ErrorRate: 13.0%
+1562-th training, BestElite's ErrorRate: 13.0%
+1563-th training, BestElite's ErrorRate: 13.0%
+1564-th training, BestElite's ErrorRate: 13.0%
+1565-th training, BestElite's ErrorRate: 13.0%
+1566-th training, BestElite's ErrorRate: 13.0%
+1567-th training, BestElite's ErrorRate: 13.0%
+1568-th training, BestElite's ErrorRate: 13.0%
+1569-th training, BestElite's ErrorRate: 13.0%
+1570-th training, BestElite's ErrorRate: 13.0%
+1571-th training, BestElite's ErrorRate: 13.0%
+1572-th training, BestElite's ErrorRate: 13.0%
+1573-th training, BestElite's ErrorRate: 13.0%
+1574-th training, BestElite's ErrorRate: 13.0%
+1575-th training, BestElite's ErrorRate: 13.0%
+1576-th training, BestElite's ErrorRate: 13.0%
+1577-th training, BestElite's ErrorRate: 13.0%
+1578-th training, BestElite's ErrorRate: 13.0%
+1579-th training, BestElite's ErrorRate: 13.0%
+1580-th training, BestElite's ErrorRate: 13.0%
+1581-th training, BestElite's ErrorRate: 13.0%
+1582-th training, BestElite's ErrorRate: 13.0%
+1583-th training, BestElite's ErrorRate: 13.0%
+1584-th training, BestElite's ErrorRate: 13.0%
+1585-th training, BestElite's ErrorRate: 13.0%
+1586-th training, BestElite's ErrorRate: 13.0%
+1587-th training, BestElite's ErrorRate: 13.0%
+1588-th training, BestElite's ErrorRate: 13.0%
+1589-th training, BestElite's ErrorRate: 13.0%
+1590-th training, BestElite's ErrorRate: 13.0%
+1591-th training, BestElite's ErrorRate: 13.0%
+1592-th training, BestElite's ErrorRate: 13.0%
+1593-th training, BestElite's ErrorRate: 13.0%
+1594-th training, BestElite's ErrorRate: 13.0%
+1595-th training, BestElite's ErrorRate: 13.0%
+1596-th training, BestElite's ErrorRate: 13.0%
+1597-th training, BestElite's ErrorRate: 13.0%
+1598-th training, BestElite's ErrorRate: 13.0%
+1599-th training, BestElite's ErrorRate: 13.0%
+1600-th training, BestElite's ErrorRate: 13.0%
+1601-th training, BestElite's ErrorRate: 13.0%
+1602-th training, BestElite's ErrorRate: 13.0%
+1603-th training, BestElite's ErrorRate: 13.0%
+1604-th training, BestElite's ErrorRate: 13.0%
+1605-th training, BestElite's ErrorRate: 13.0%
+1606-th training, BestElite's ErrorRate: 13.0%
+1607-th training, BestElite's ErrorRate: 13.0%
+1608-th training, BestElite's ErrorRate: 13.0%
+1609-th training, BestElite's ErrorRate: 13.0%
+1610-th training, BestElite's ErrorRate: 13.0%
+1611-th training, BestElite's ErrorRate: 13.0%
+1612-th training, BestElite's ErrorRate: 13.0%
+1613-th training, BestElite's ErrorRate: 13.0%
+1614-th training, BestElite's ErrorRate: 13.0%
+1615-th training, BestElite's ErrorRate: 13.0%
+1616-th training, BestElite's ErrorRate: 13.0%
+1617-th training, BestElite's ErrorRate: 13.0%
+1618-th training, BestElite's ErrorRate: 13.0%
+1619-th training, BestElite's ErrorRate: 13.0%
+1620-th training, BestElite's ErrorRate: 13.0%
+1621-th training, BestElite's ErrorRate: 13.0%
+1622-th training, BestElite's ErrorRate: 13.0%
+1623-th training, BestElite's ErrorRate: 13.0%
+1624-th training, BestElite's ErrorRate: 13.0%
+1625-th training, BestElite's ErrorRate: 13.0%
+1626-th training, BestElite's ErrorRate: 13.0%
+1627-th training, BestElite's ErrorRate: 13.0%
+1628-th training, BestElite's ErrorRate: 13.0%
+1629-th training, BestElite's ErrorRate: 13.0%
+1630-th training, BestElite's ErrorRate: 13.0%
+1631-th training, BestElite's ErrorRate: 13.0%
+1632-th training, BestElite's ErrorRate: 13.0%
+1633-th training, BestElite's ErrorRate: 13.0%
+1634-th training, BestElite's ErrorRate: 13.0%
+1635-th training, BestElite's ErrorRate: 13.0%
+1636-th training, BestElite's ErrorRate: 13.0%
+1637-th training, BestElite's ErrorRate: 13.0%
+1638-th training, BestElite's ErrorRate: 13.0%
+1639-th training, BestElite's ErrorRate: 13.0%
+1640-th training, BestElite's ErrorRate: 13.0%
+1641-th training, BestElite's ErrorRate: 13.0%
+1642-th training, BestElite's ErrorRate: 13.0%
+1643-th training, BestElite's ErrorRate: 13.0%
+1644-th training, BestElite's ErrorRate: 13.0%
+1645-th training, BestElite's ErrorRate: 13.0%
+1646-th training, BestElite's ErrorRate: 13.0%
+1647-th training, BestElite's ErrorRate: 13.0%
+1648-th training, BestElite's ErrorRate: 13.0%
+1649-th training, BestElite's ErrorRate: 13.0%
+1650-th training, BestElite's ErrorRate: 13.0%
+1651-th training, BestElite's ErrorRate: 13.0%
+1652-th training, BestElite's ErrorRate: 13.0%
+1653-th training, BestElite's ErrorRate: 13.0%
+1654-th training, BestElite's ErrorRate: 13.0%
+1655-th training, BestElite's ErrorRate: 13.0%
+1656-th training, BestElite's ErrorRate: 13.0%
+1657-th training, BestElite's ErrorRate: 13.0%
+1658-th training, BestElite's ErrorRate: 13.0%
+1659-th training, BestElite's ErrorRate: 13.0%
+1660-th training, BestElite's ErrorRate: 13.0%
+1661-th training, BestElite's ErrorRate: 13.0%
+1662-th training, BestElite's ErrorRate: 13.0%
+1663-th training, BestElite's ErrorRate: 13.0%
+1664-th training, BestElite's ErrorRate: 13.0%
+1665-th training, BestElite's ErrorRate: 13.0%
+1666-th training, BestElite's ErrorRate: 13.0%
+1667-th training, BestElite's ErrorRate: 13.0%
+1668-th training, BestElite's ErrorRate: 13.0%
+1669-th training, BestElite's ErrorRate: 13.0%
+1670-th training, BestElite's ErrorRate: 13.0%
+1671-th training, BestElite's ErrorRate: 13.0%
+1672-th training, BestElite's ErrorRate: 13.0%
+1673-th training, BestElite's ErrorRate: 13.0%
+1674-th training, BestElite's ErrorRate: 13.0%
+1675-th training, BestElite's ErrorRate: 13.0%
+1676-th training, BestElite's ErrorRate: 13.0%
+1677-th training, BestElite's ErrorRate: 13.0%
+1678-th training, BestElite's ErrorRate: 13.0%
+1679-th training, BestElite's ErrorRate: 13.0%
+1680-th training, BestElite's ErrorRate: 13.0%
+1681-th training, BestElite's ErrorRate: 13.0%
+1682-th training, BestElite's ErrorRate: 13.0%
+1683-th training, BestElite's ErrorRate: 13.0%
+1684-th training, BestElite's ErrorRate: 13.0%
+1685-th training, BestElite's ErrorRate: 13.0%
+1686-th training, BestElite's ErrorRate: 13.0%
+1687-th training, BestElite's ErrorRate: 13.0%
+1688-th training, BestElite's ErrorRate: 13.0%
+1689-th training, BestElite's ErrorRate: 13.0%
+1690-th training, BestElite's ErrorRate: 13.0%
+1691-th training, BestElite's ErrorRate: 13.0%
+1692-th training, BestElite's ErrorRate: 13.0%
+1693-th training, BestElite's ErrorRate: 13.0%
+1694-th training, BestElite's ErrorRate: 13.0%
+1695-th training, BestElite's ErrorRate: 13.0%
+1696-th training, BestElite's ErrorRate: 13.0%
+1697-th training, BestElite's ErrorRate: 13.0%
+1698-th training, BestElite's ErrorRate: 13.0%
+1699-th training, BestElite's ErrorRate: 13.0%
+1700-th training, BestElite's ErrorRate: 13.0%
+1701-th training, BestElite's ErrorRate: 13.0%
+1702-th training, BestElite's ErrorRate: 13.0%
+1703-th training, BestElite's ErrorRate: 13.0%
+1704-th training, BestElite's ErrorRate: 13.0%
+1705-th training, BestElite's ErrorRate: 13.0%
+1706-th training, BestElite's ErrorRate: 13.0%
+1707-th training, BestElite's ErrorRate: 13.0%
+1708-th training, BestElite's ErrorRate: 13.0%
+1709-th training, BestElite's ErrorRate: 13.0%
+1710-th training, BestElite's ErrorRate: 13.0%
+1711-th training, BestElite's ErrorRate: 13.0%
+1712-th training, BestElite's ErrorRate: 13.0%
+1713-th training, BestElite's ErrorRate: 13.0%
+1714-th training, BestElite's ErrorRate: 13.0%
+1715-th training, BestElite's ErrorRate: 13.0%
+1716-th training, BestElite's ErrorRate: 13.0%
+1717-th training, BestElite's ErrorRate: 13.0%
+1718-th training, BestElite's ErrorRate: 13.0%
+1719-th training, BestElite's ErrorRate: 13.0%
+1720-th training, BestElite's ErrorRate: 13.0%
+1721-th training, BestElite's ErrorRate: 13.0%
+1722-th training, BestElite's ErrorRate: 13.0%
+1723-th training, BestElite's ErrorRate: 13.0%
+1724-th training, BestElite's ErrorRate: 13.0%
+1725-th training, BestElite's ErrorRate: 13.0%
+1726-th training, BestElite's ErrorRate: 13.0%
+1727-th training, BestElite's ErrorRate: 13.0%
+1728-th training, BestElite's ErrorRate: 13.0%
+1729-th training, BestElite's ErrorRate: 13.0%
+1730-th training, BestElite's ErrorRate: 13.0%
+1731-th training, BestElite's ErrorRate: 13.0%
+1732-th training, BestElite's ErrorRate: 13.0%
+1733-th training, BestElite's ErrorRate: 13.0%
+1734-th training, BestElite's ErrorRate: 13.0%
+1735-th training, BestElite's ErrorRate: 13.0%
+1736-th training, BestElite's ErrorRate: 13.0%
+1737-th training, BestElite's ErrorRate: 13.0%
+1738-th training, BestElite's ErrorRate: 13.0%
+1739-th training, BestElite's ErrorRate: 13.0%
+1740-th training, BestElite's ErrorRate: 13.0%
+1741-th training, BestElite's ErrorRate: 13.0%
+1742-th training, BestElite's ErrorRate: 13.0%
+1743-th training, BestElite's ErrorRate: 13.0%
+1744-th training, BestElite's ErrorRate: 13.0%
+1745-th training, BestElite's ErrorRate: 13.0%
+1746-th training, BestElite's ErrorRate: 13.0%
+1747-th training, BestElite's ErrorRate: 13.0%
+1748-th training, BestElite's ErrorRate: 13.0%
+1749-th training, BestElite's ErrorRate: 13.0%
+1750-th training, BestElite's ErrorRate: 13.0%
+1751-th training, BestElite's ErrorRate: 13.0%
+1752-th training, BestElite's ErrorRate: 13.0%
+1753-th training, BestElite's ErrorRate: 13.0%
+1754-th training, BestElite's ErrorRate: 13.0%
+1755-th training, BestElite's ErrorRate: 13.0%
+1756-th training, BestElite's ErrorRate: 13.0%
+1757-th training, BestElite's ErrorRate: 13.0%
+1758-th training, BestElite's ErrorRate: 13.0%
+1759-th training, BestElite's ErrorRate: 13.0%
+1760-th training, BestElite's ErrorRate: 13.0%
+1761-th training, BestElite's ErrorRate: 13.0%
+1762-th training, BestElite's ErrorRate: 13.0%
+1763-th training, BestElite's ErrorRate: 13.0%
+1764-th training, BestElite's ErrorRate: 13.0%
+1765-th training, BestElite's ErrorRate: 13.0%
+1766-th training, BestElite's ErrorRate: 13.0%
+1767-th training, BestElite's ErrorRate: 13.0%
+1768-th training, BestElite's ErrorRate: 13.0%
+1769-th training, BestElite's ErrorRate: 13.0%
+1770-th training, BestElite's ErrorRate: 13.0%
+1771-th training, BestElite's ErrorRate: 13.0%
+1772-th training, BestElite's ErrorRate: 13.0%
+1773-th training, BestElite's ErrorRate: 13.0%
+1774-th training, BestElite's ErrorRate: 13.0%
+1775-th training, BestElite's ErrorRate: 13.0%
+1776-th training, BestElite's ErrorRate: 13.0%
+1777-th training, BestElite's ErrorRate: 13.0%
+1778-th training, BestElite's ErrorRate: 13.0%
+1779-th training, BestElite's ErrorRate: 13.0%
+1780-th training, BestElite's ErrorRate: 13.0%
+1781-th training, BestElite's ErrorRate: 13.0%
+1782-th training, BestElite's ErrorRate: 13.0%
+1783-th training, BestElite's ErrorRate: 13.0%
+1784-th training, BestElite's ErrorRate: 13.0%
+1785-th training, BestElite's ErrorRate: 13.0%
+1786-th training, BestElite's ErrorRate: 13.0%
+1787-th training, BestElite's ErrorRate: 13.0%
+1788-th training, BestElite's ErrorRate: 13.0%
+1789-th training, BestElite's ErrorRate: 13.0%
+1790-th training, BestElite's ErrorRate: 13.0%
+1791-th training, BestElite's ErrorRate: 13.0%
+1792-th training, BestElite's ErrorRate: 13.0%
+1793-th training, BestElite's ErrorRate: 13.0%
+1794-th training, BestElite's ErrorRate: 13.0%
+1795-th training, BestElite's ErrorRate: 13.0%
+1796-th training, BestElite's ErrorRate: 13.0%
+1797-th training, BestElite's ErrorRate: 13.0%
+1798-th training, BestElite's ErrorRate: 13.0%
+1799-th training, BestElite's ErrorRate: 13.0%
+1800-th training, BestElite's ErrorRate: 13.0%
+1801-th training, BestElite's ErrorRate: 13.0%
+1802-th training, BestElite's ErrorRate: 13.0%
+1803-th training, BestElite's ErrorRate: 13.0%
+1804-th training, BestElite's ErrorRate: 13.0%
+1805-th training, BestElite's ErrorRate: 13.0%
+1806-th training, BestElite's ErrorRate: 13.0%
+1807-th training, BestElite's ErrorRate: 13.0%
+1808-th training, BestElite's ErrorRate: 13.0%
+1809-th training, BestElite's ErrorRate: 13.0%
+1810-th training, BestElite's ErrorRate: 13.0%
+1811-th training, BestElite's ErrorRate: 13.0%
+1812-th training, BestElite's ErrorRate: 13.0%
+1813-th training, BestElite's ErrorRate: 13.0%
+1814-th training, BestElite's ErrorRate: 13.0%
+1815-th training, BestElite's ErrorRate: 13.0%
+1816-th training, BestElite's ErrorRate: 13.0%
+1817-th training, BestElite's ErrorRate: 13.0%
+1818-th training, BestElite's ErrorRate: 13.0%
+1819-th training, BestElite's ErrorRate: 13.0%
+1820-th training, BestElite's ErrorRate: 13.0%
+1821-th training, BestElite's ErrorRate: 13.0%
+1822-th training, BestElite's ErrorRate: 13.0%
+1823-th training, BestElite's ErrorRate: 13.0%
+1824-th training, BestElite's ErrorRate: 13.0%
+1825-th training, BestElite's ErrorRate: 13.0%
+1826-th training, BestElite's ErrorRate: 13.0%
+1827-th training, BestElite's ErrorRate: 13.0%
+1828-th training, BestElite's ErrorRate: 13.0%
+1829-th training, BestElite's ErrorRate: 13.0%
+1830-th training, BestElite's ErrorRate: 13.0%
+1831-th training, BestElite's ErrorRate: 13.0%
+1832-th training, BestElite's ErrorRate: 13.0%
+1833-th training, BestElite's ErrorRate: 13.0%
+1834-th training, BestElite's ErrorRate: 13.0%
+1835-th training, BestElite's ErrorRate: 13.0%
+1836-th training, BestElite's ErrorRate: 13.0%
+1837-th training, BestElite's ErrorRate: 13.0%
+1838-th training, BestElite's ErrorRate: 13.0%
+1839-th training, BestElite's ErrorRate: 13.0%
+1840-th training, BestElite's ErrorRate: 13.0%
+1841-th training, BestElite's ErrorRate: 13.0%
+1842-th training, BestElite's ErrorRate: 13.0%
+1843-th training, BestElite's ErrorRate: 13.0%
+1844-th training, BestElite's ErrorRate: 13.0%
+1845-th training, BestElite's ErrorRate: 13.0%
+1846-th training, BestElite's ErrorRate: 13.0%
+1847-th training, BestElite's ErrorRate: 13.0%
+1848-th training, BestElite's ErrorRate: 13.0%
+1849-th training, BestElite's ErrorRate: 13.0%
+1850-th training, BestElite's ErrorRate: 13.0%
+1851-th training, BestElite's ErrorRate: 13.0%
+1852-th training, BestElite's ErrorRate: 13.0%
+1853-th training, BestElite's ErrorRate: 13.0%
+1854-th training, BestElite's ErrorRate: 13.0%
+1855-th training, BestElite's ErrorRate: 13.0%
+1856-th training, BestElite's ErrorRate: 13.0%
+1857-th training, BestElite's ErrorRate: 13.0%
+1858-th training, BestElite's ErrorRate: 13.0%
+1859-th training, BestElite's ErrorRate: 13.0%
+1860-th training, BestElite's ErrorRate: 13.0%
+1861-th training, BestElite's ErrorRate: 13.0%
+1862-th training, BestElite's ErrorRate: 13.0%
+1863-th training, BestElite's ErrorRate: 13.0%
+1864-th training, BestElite's ErrorRate: 13.0%
+1865-th training, BestElite's ErrorRate: 13.0%
+1866-th training, BestElite's ErrorRate: 13.0%
+1867-th training, BestElite's ErrorRate: 13.0%
+1868-th training, BestElite's ErrorRate: 13.0%
+1869-th training, BestElite's ErrorRate: 13.0%
+1870-th training, BestElite's ErrorRate: 13.0%
+1871-th training, BestElite's ErrorRate: 13.0%
+1872-th training, BestElite's ErrorRate: 13.0%
+1873-th training, BestElite's ErrorRate: 13.0%
+1874-th training, BestElite's ErrorRate: 13.0%
+1875-th training, BestElite's ErrorRate: 13.0%
+1876-th training, BestElite's ErrorRate: 13.0%
+1877-th training, BestElite's ErrorRate: 13.0%
+1878-th training, BestElite's ErrorRate: 13.0%
+1879-th training, BestElite's ErrorRate: 13.0%
+1880-th training, BestElite's ErrorRate: 13.0%
+1881-th training, BestElite's ErrorRate: 13.0%
+1882-th training, BestElite's ErrorRate: 13.0%
+1883-th training, BestElite's ErrorRate: 13.0%
+1884-th training, BestElite's ErrorRate: 13.0%
+1885-th training, BestElite's ErrorRate: 13.0%
+1886-th training, BestElite's ErrorRate: 13.0%
+1887-th training, BestElite's ErrorRate: 13.0%
+1888-th training, BestElite's ErrorRate: 13.0%
+1889-th training, BestElite's ErrorRate: 13.0%
+1890-th training, BestElite's ErrorRate: 13.0%
+1891-th training, BestElite's ErrorRate: 13.0%
+1892-th training, BestElite's ErrorRate: 13.0%
+1893-th training, BestElite's ErrorRate: 13.0%
+1894-th training, BestElite's ErrorRate: 13.0%
+1895-th training, BestElite's ErrorRate: 13.0%
+1896-th training, BestElite's ErrorRate: 13.0%
+1897-th training, BestElite's ErrorRate: 13.0%
+1898-th training, BestElite's ErrorRate: 13.0%
+1899-th training, BestElite's ErrorRate: 13.0%
+1900-th training, BestElite's ErrorRate: 13.0%
+1901-th training, BestElite's ErrorRate: 13.0%
+1902-th training, BestElite's ErrorRate: 13.0%
+1903-th training, BestElite's ErrorRate: 13.0%
+1904-th training, BestElite's ErrorRate: 13.0%
+1905-th training, BestElite's ErrorRate: 13.0%
+1906-th training, BestElite's ErrorRate: 13.0%
+1907-th training, BestElite's ErrorRate: 13.0%
+1908-th training, BestElite's ErrorRate: 13.0%
+1909-th training, BestElite's ErrorRate: 13.0%
+1910-th training, BestElite's ErrorRate: 13.0%
+1911-th training, BestElite's ErrorRate: 13.0%
+1912-th training, BestElite's ErrorRate: 13.0%
+1913-th training, BestElite's ErrorRate: 13.0%
+1914-th training, BestElite's ErrorRate: 13.0%
+1915-th training, BestElite's ErrorRate: 13.0%
+1916-th training, BestElite's ErrorRate: 13.0%
+1917-th training, BestElite's ErrorRate: 13.0%
+1918-th training, BestElite's ErrorRate: 13.0%
+1919-th training, BestElite's ErrorRate: 13.0%
+1920-th training, BestElite's ErrorRate: 13.0%
+1921-th training, BestElite's ErrorRate: 13.0%
+1922-th training, BestElite's ErrorRate: 13.0%
+1923-th training, BestElite's ErrorRate: 13.0%
+1924-th training, BestElite's ErrorRate: 13.0%
+1925-th training, BestElite's ErrorRate: 13.0%
+1926-th training, BestElite's ErrorRate: 13.0%
+1927-th training, BestElite's ErrorRate: 13.0%
+1928-th training, BestElite's ErrorRate: 13.0%
+1929-th training, BestElite's ErrorRate: 13.0%
+1930-th training, BestElite's ErrorRate: 13.0%
+1931-th training, BestElite's ErrorRate: 13.0%
+1932-th training, BestElite's ErrorRate: 13.0%
+1933-th training, BestElite's ErrorRate: 13.0%
+1934-th training, BestElite's ErrorRate: 13.0%
+1935-th training, BestElite's ErrorRate: 13.0%
+1936-th training, BestElite's ErrorRate: 13.0%
+1937-th training, BestElite's ErrorRate: 13.0%
+1938-th training, BestElite's ErrorRate: 13.0%
+1939-th training, BestElite's ErrorRate: 13.0%
+1940-th training, BestElite's ErrorRate: 13.0%
+1941-th training, BestElite's ErrorRate: 13.0%
+1942-th training, BestElite's ErrorRate: 13.0%
+1943-th training, BestElite's ErrorRate: 13.0%
+1944-th training, BestElite's ErrorRate: 13.0%
+1945-th training, BestElite's ErrorRate: 13.0%
+1946-th training, BestElite's ErrorRate: 13.0%
+1947-th training, BestElite's ErrorRate: 13.0%
+1948-th training, BestElite's ErrorRate: 13.0%
+1949-th training, BestElite's ErrorRate: 13.0%
+1950-th training, BestElite's ErrorRate: 13.0%
+1951-th training, BestElite's ErrorRate: 13.0%
+1952-th training, BestElite's ErrorRate: 13.0%
+1953-th training, BestElite's ErrorRate: 13.0%
+1954-th training, BestElite's ErrorRate: 13.0%
+1955-th training, BestElite's ErrorRate: 13.0%
+1956-th training, BestElite's ErrorRate: 13.0%
+1957-th training, BestElite's ErrorRate: 13.0%
+1958-th training, BestElite's ErrorRate: 13.0%
+1959-th training, BestElite's ErrorRate: 13.0%
+1960-th training, BestElite's ErrorRate: 13.0%
+1961-th training, BestElite's ErrorRate: 13.0%
+1962-th training, BestElite's ErrorRate: 13.0%
+1963-th training, BestElite's ErrorRate: 13.0%
+1964-th training, BestElite's ErrorRate: 13.0%
+1965-th training, BestElite's ErrorRate: 13.0%
+1966-th training, BestElite's ErrorRate: 13.0%
+1967-th training, BestElite's ErrorRate: 13.0%
+1968-th training, BestElite's ErrorRate: 13.0%
+1969-th training, BestElite's ErrorRate: 13.0%
+1970-th training, BestElite's ErrorRate: 13.0%
+1971-th training, BestElite's ErrorRate: 13.0%
+1972-th training, BestElite's ErrorRate: 13.0%
+1973-th training, BestElite's ErrorRate: 13.0%
+1974-th training, BestElite's ErrorRate: 13.0%
+1975-th training, BestElite's ErrorRate: 13.0%
+1976-th training, BestElite's ErrorRate: 13.0%
+1977-th training, BestElite's ErrorRate: 13.0%
+1978-th training, BestElite's ErrorRate: 13.0%
+1979-th training, BestElite's ErrorRate: 13.0%
+1980-th training, BestElite's ErrorRate: 13.0%
+1981-th training, BestElite's ErrorRate: 13.0%
+1982-th training, BestElite's ErrorRate: 13.0%
+1983-th training, BestElite's ErrorRate: 13.0%
+1984-th training, BestElite's ErrorRate: 13.0%
+1985-th training, BestElite's ErrorRate: 13.0%
+1986-th training, BestElite's ErrorRate: 13.0%
+1987-th training, BestElite's ErrorRate: 13.0%
+1988-th training, BestElite's ErrorRate: 13.0%
+1989-th training, BestElite's ErrorRate: 13.0%
+1990-th training, BestElite's ErrorRate: 13.0%
+1991-th training, BestElite's ErrorRate: 13.0%
+1992-th training, BestElite's ErrorRate: 13.0%
+1993-th training, BestElite's ErrorRate: 13.0%
+1994-th training, BestElite's ErrorRate: 13.0%
+1995-th training, BestElite's ErrorRate: 13.0%
+1996-th training, BestElite's ErrorRate: 13.0%
+1997-th training, BestElite's ErrorRate: 13.0%
+1998-th training, BestElite's ErrorRate: 13.0%
+1999-th training, BestElite's ErrorRate: 13.0%
+2000-th training, BestElite's ErrorRate: 13.0%
+
+Final Result (7-th generation): 11.0% -> [8.594237450110342, -25.666718456670836, -413.0430538717254]
+
