@@ -1,0 +1,1150 @@
+   1 th training -> Move Low  / ErrorRate: 33.00% / ErrorGap: 0.00 / T: 100.000000
+   2 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 99.000000
+   3 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.06 / T: 98.010000
+   4 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 97.029900
+   5 th training -> Move high / ErrorRate: 30.00% / ErrorGap: 0.03 / T: 96.059601
+   6 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.03 / T: 95.099005
+   7 th training -> Move high / ErrorRate: 34.00% / ErrorGap: 0.01 / T: 94.148015
+   8 th training -> Move Low  / ErrorRate: 30.00% / ErrorGap: -0.04 / T: 93.206535
+   9 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.03 / T: 92.274469
+  10 th training -> Move Low  / ErrorRate: 33.00% / ErrorGap: 0.00 / T: 91.351725
+  11 th training -> Move Low  / ErrorRate: 33.00% / ErrorGap: 0.00 / T: 90.438208
+  12 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.05 / T: 89.533825
+  13 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.02 / T: 88.638487
+  14 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.02 / T: 87.752102
+  15 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.02 / T: 86.874581
+  16 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: 0.00 / T: 86.005835
+  17 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.04 / T: 85.145777
+  18 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: 0.00 / T: 84.294319
+  19 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 83.451376
+  20 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.01 / T: 82.616862
+  21 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.04 / T: 81.790694
+  22 th training -> Move Low  / ErrorRate: 35.00% / ErrorGap: -0.01 / T: 80.972787
+  23 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.01 / T: 80.163059
+  24 th training -> Move Low  / ErrorRate: 35.00% / ErrorGap: -0.01 / T: 79.361428
+  25 th training -> Move Low  / ErrorRate: 33.00% / ErrorGap: -0.02 / T: 78.567814
+  26 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 77.782136
+  27 th training -> Move high / ErrorRate: 30.00% / ErrorGap: 0.03 / T: 77.004315
+  28 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.03 / T: 76.234271
+  29 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: 0.00 / T: 75.471929
+  30 th training -> Move Low  / ErrorRate: 21.00% / ErrorGap: -0.06 / T: 74.717209
+  31 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.07 / T: 73.970037
+  32 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.01 / T: 73.230337
+  33 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.01 / T: 72.498034
+  34 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.10 / T: 71.773053
+  35 th training -> Move Low  / ErrorRate: 23.00% / ErrorGap: -0.01 / T: 71.055323
+  36 th training -> Move high / ErrorRate: 31.00% / ErrorGap: 0.08 / T: 70.344769
+  37 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.05 / T: 69.641322
+  38 th training -> Move Low  / ErrorRate: 33.00% / ErrorGap: -0.03 / T: 68.944909
+  39 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 68.255460
+  40 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.02 / T: 67.572905
+  41 th training -> Move high / ErrorRate: 30.00% / ErrorGap: 0.01 / T: 66.897176
+  42 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.03 / T: 66.228204
+  43 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: 0.00 / T: 65.565922
+  44 th training -> Move Low  / ErrorRate: 21.00% / ErrorGap: -0.06 / T: 64.910263
+  45 th training -> Move high / ErrorRate: 30.00% / ErrorGap: 0.09 / T: 64.261160
+  46 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.03 / T: 63.618549
+  47 th training -> Move Low  / ErrorRate: 17.00% / ErrorGap: -0.10 / T: 62.982363
+  48 th training -> Move Low  / ErrorRate: 15.00% / ErrorGap: -0.02 / T: 62.352539
+  49 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.03 / T: 61.729014
+  50 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 61.111724
+  51 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 60.500607
+  52 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.01 / T: 59.895601
+  53 th training -> Move high / ErrorRate: 17.00% / ErrorGap: 0.03 / T: 59.296645
+  54 th training -> Move Low  / ErrorRate: 15.00% / ErrorGap: -0.02 / T: 58.703678
+  55 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.03 / T: 58.116641
+  56 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 57.535475
+  57 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 56.960120
+  58 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: 0.00 / T: 56.390519
+  59 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: 0.00 / T: 55.826614
+  60 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.02 / T: 55.268348
+  61 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.06 / T: 54.715664
+  62 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.02 / T: 54.168508
+  63 th training -> Move Low  / ErrorRate: 10.00% / ErrorGap: -0.03 / T: 53.626823
+  64 th training -> Move high / ErrorRate: 11.00% / ErrorGap: 0.01 / T: 53.090554
+  65 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 52.559649
+  66 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 52.034052
+  67 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 51.513712
+  68 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.03 / T: 50.998575
+  69 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.03 / T: 50.488589
+  70 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.04 / T: 49.983703
+  71 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.02 / T: 49.483866
+  72 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 48.989027
+  73 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 48.499137
+  74 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 48.014146
+  75 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 47.534004
+  76 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 47.058664
+  77 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 46.588078
+  78 th training -> Move high / ErrorRate: 16.00% / ErrorGap: 0.05 / T: 46.122197
+  79 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.03 / T: 45.660975
+  80 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.06 / T: 45.204365
+  81 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 44.752321
+  82 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.03 / T: 44.304798
+  83 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.05 / T: 43.861750
+  84 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.08 / T: 43.423133
+  85 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.03 / T: 42.988901
+  86 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.05 / T: 42.559012
+  87 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.02 / T: 42.133422
+  88 th training -> Move Low  / ErrorRate: 25.00% / ErrorGap: -0.02 / T: 41.712088
+  89 th training -> Move high / ErrorRate: 28.00% / ErrorGap: 0.03 / T: 41.294967
+  90 th training -> Move Low  / ErrorRate: 28.00% / ErrorGap: 0.00 / T: 40.882017
+  91 th training -> Move Low  / ErrorRate: 22.00% / ErrorGap: -0.06 / T: 40.473197
+  92 th training -> Move high / ErrorRate: 28.00% / ErrorGap: 0.06 / T: 40.068465
+  93 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.01 / T: 39.667781
+  94 th training -> Move Low  / ErrorRate: 23.00% / ErrorGap: -0.04 / T: 39.271103
+  95 th training -> Move Low  / ErrorRate: 16.00% / ErrorGap: -0.07 / T: 38.878392
+  96 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.08 / T: 38.489608
+  97 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.05 / T: 38.104712
+  98 th training -> Move high / ErrorRate: 37.00% / ErrorGap: 0.08 / T: 37.723665
+  99 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.02 / T: 37.346428
+ 100 th training -> Move high / ErrorRate: 44.00% / ErrorGap: 0.05 / T: 36.972964
+ 101 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.01 / T: 36.603234
+ 102 th training -> Move Low  / ErrorRate: 44.00% / ErrorGap: -0.01 / T: 36.237202
+ 103 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.05 / T: 35.874830
+ 104 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: 0.00 / T: 35.516081
+ 105 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.01 / T: 35.160921
+ 106 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 34.809311
+ 107 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.01 / T: 34.461218
+ 108 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.02 / T: 34.116606
+ 109 th training -> Move Low  / ErrorRate: 35.00% / ErrorGap: -0.01 / T: 33.775440
+ 110 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.05 / T: 33.437686
+ 111 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.05 / T: 33.103309
+ 112 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.05 / T: 32.772276
+ 113 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: 0.00 / T: 32.444553
+ 114 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 32.120107
+ 115 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.03 / T: 31.798906
+ 116 th training -> Move Low  / ErrorRate: 29.00% / ErrorGap: -0.07 / T: 31.480917
+ 117 th training -> Move Low  / ErrorRate: 25.00% / ErrorGap: -0.04 / T: 31.166108
+ 118 th training -> Move Low  / ErrorRate: 21.00% / ErrorGap: -0.04 / T: 30.854447
+ 119 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: -0.01 / T: 30.545903
+ 120 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: 0.00 / T: 30.240444
+ 121 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.04 / T: 29.938039
+ 122 th training -> Move high / ErrorRate: 26.00% / ErrorGap: 0.02 / T: 29.638659
+ 123 th training -> Move Low  / ErrorRate: 17.00% / ErrorGap: -0.09 / T: 29.342272
+ 124 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.05 / T: 29.048849
+ 125 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 28.758361
+ 126 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 28.470777
+ 127 th training -> Move high / ErrorRate: 17.00% / ErrorGap: 0.04 / T: 28.186070
+ 128 th training -> Move high / ErrorRate: 23.00% / ErrorGap: 0.06 / T: 27.904209
+ 129 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: -0.03 / T: 27.625167
+ 130 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.07 / T: 27.348915
+ 131 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: 0.00 / T: 27.075426
+ 132 th training -> Move high / ErrorRate: 35.00% / ErrorGap: 0.08 / T: 26.804672
+ 133 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.01 / T: 26.536625
+ 134 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: 0.00 / T: 26.271259
+ 135 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: 0.00 / T: 26.008546
+ 136 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.09 / T: 25.748461
+ 137 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.06 / T: 25.490976
+ 138 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 25.236066
+ 139 th training -> Move high / ErrorRate: 30.00% / ErrorGap: 0.03 / T: 24.983706
+ 140 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.06 / T: 24.733869
+ 141 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.10 / T: 24.486530
+ 142 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.01 / T: 24.241665
+ 143 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 23.999248
+ 144 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 23.759255
+ 145 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 23.521663
+ 146 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 23.286446
+ 147 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 23.053582
+ 148 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 22.823046
+ 149 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 22.594816
+ 150 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.02 / T: 22.368867
+ 151 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.03 / T: 22.145179
+ 152 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.02 / T: 21.923727
+ 153 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 21.704490
+ 154 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.08 / T: 21.487445
+ 155 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.05 / T: 21.272570
+ 156 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: 0.00 / T: 21.059845
+ 157 th training -> Move Low  / ErrorRate: 22.00% / ErrorGap: -0.02 / T: 20.849246
+ 158 th training -> Move Low  / ErrorRate: 19.00% / ErrorGap: -0.03 / T: 20.640754
+ 159 th training -> Move high / ErrorRate: 20.00% / ErrorGap: 0.01 / T: 20.434346
+ 160 th training -> Move Low  / ErrorRate: 16.00% / ErrorGap: -0.04 / T: 20.230003
+ 161 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.03 / T: 20.027703
+ 162 th training -> Move Low  / ErrorRate: 8.00% / ErrorGap: -0.05 / T: 19.827426
+ 163 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.05 / T: 19.629151
+ 164 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 19.432860
+ 165 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 19.238531
+ 166 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 19.046146
+ 167 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 18.855685
+ 168 th training -> Move high / ErrorRate: 20.00% / ErrorGap: 0.07 / T: 18.667128
+ 169 th training -> Move Low  / ErrorRate: 16.00% / ErrorGap: -0.04 / T: 18.480456
+ 170 th training -> Move high / ErrorRate: 22.00% / ErrorGap: 0.06 / T: 18.295652
+ 171 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.09 / T: 18.112695
+ 172 th training -> Move Low  / ErrorRate: 10.00% / ErrorGap: -0.03 / T: 17.931568
+ 173 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.03 / T: 17.752253
+ 174 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.04 / T: 17.574730
+ 175 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.05 / T: 17.398983
+ 176 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 17.224993
+ 177 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.01 / T: 17.052743
+ 178 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.01 / T: 16.882216
+ 179 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.02 / T: 16.713394
+ 180 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 16.546260
+ 181 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.03 / T: 16.380797
+ 182 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 16.216989
+ 183 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: 0.00 / T: 16.054819
+ 184 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.04 / T: 15.894271
+ 185 th training -> Move high / ErrorRate: 11.00% / ErrorGap: 0.02 / T: 15.735328
+ 186 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 15.577975
+ 187 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 15.422195
+ 188 th training -> Move high / ErrorRate: 16.00% / ErrorGap: 0.04 / T: 15.267973
+ 189 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.08 / T: 15.115293
+ 190 th training -> Move Low  / ErrorRate: 17.00% / ErrorGap: -0.07 / T: 14.964141
+ 191 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.04 / T: 14.814499
+ 192 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: 0.00 / T: 14.666354
+ 193 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 14.519691
+ 194 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: 0.00 / T: 14.374494
+ 195 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 14.230749
+ 196 th training -> Move high / ErrorRate: 16.00% / ErrorGap: 0.02 / T: 14.088441
+ 197 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.08 / T: 13.947557
+ 198 th training -> Move Low  / ErrorRate: 17.00% / ErrorGap: -0.07 / T: 13.808081
+ 199 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.04 / T: 13.670000
+ 200 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 13.533300
+ 201 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 13.397967
+ 202 th training -> Move high / ErrorRate: 16.00% / ErrorGap: 0.02 / T: 13.263988
+ 203 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.02 / T: 13.131348
+ 204 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.02 / T: 13.000034
+ 205 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 12.870034
+ 206 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 12.741334
+ 207 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 12.613920
+ 208 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 12.487781
+ 209 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 12.362903
+ 210 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 12.239274
+ 211 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.02 / T: 12.116882
+ 212 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.03 / T: 11.995713
+ 213 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 11.875756
+ 214 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.03 / T: 11.756998
+ 215 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.03 / T: 11.639428
+ 216 th training -> Move high / ErrorRate: 20.00% / ErrorGap: 0.06 / T: 11.523034
+ 217 th training -> Move high / ErrorRate: 25.00% / ErrorGap: 0.05 / T: 11.407804
+ 218 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.08 / T: 11.293725
+ 219 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.06 / T: 11.180788
+ 220 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.03 / T: 11.068980
+ 221 th training -> Move high / ErrorRate: 25.00% / ErrorGap: 0.01 / T: 10.958291
+ 222 th training -> Move Low  / ErrorRate: 19.00% / ErrorGap: -0.06 / T: 10.848708
+ 223 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.08 / T: 10.740221
+ 224 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.09 / T: 10.632818
+ 225 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.02 / T: 10.526490
+ 226 th training -> Move Low  / ErrorRate: 34.00% / ErrorGap: -0.04 / T: 10.421225
+ 227 th training -> Move Low  / ErrorRate: 34.00% / ErrorGap: 0.00 / T: 10.317013
+ 228 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.02 / T: 10.213843
+ 229 th training -> Move Low  / ErrorRate: 30.00% / ErrorGap: -0.06 / T: 10.111704
+ 230 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.03 / T: 10.010587
+ 231 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.03 / T: 9.910482
+ 232 th training -> Move Low  / ErrorRate: 22.00% / ErrorGap: -0.02 / T: 9.811377
+ 233 th training -> Move high / ErrorRate: 26.00% / ErrorGap: 0.04 / T: 9.713263
+ 234 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.01 / T: 9.616130
+ 235 th training -> Move Low  / ErrorRate: 23.00% / ErrorGap: -0.04 / T: 9.519969
+ 236 th training -> Move Low  / ErrorRate: 16.00% / ErrorGap: -0.07 / T: 9.424769
+ 237 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.03 / T: 9.330522
+ 238 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.06 / T: 9.237216
+ 239 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.04 / T: 9.144844
+ 240 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.03 / T: 9.053396
+ 241 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.03 / T: 8.962862
+ 242 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.02 / T: 8.873233
+ 243 th training -> Move high / ErrorRate: 16.00% / ErrorGap: 0.03 / T: 8.784501
+ 244 th training -> Move high / ErrorRate: 22.00% / ErrorGap: 0.06 / T: 8.696656
+ 245 th training -> Move high / ErrorRate: 26.00% / ErrorGap: 0.04 / T: 8.609689
+ 246 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.01 / T: 8.523592
+ 247 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.03 / T: 8.438357
+ 248 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.10 / T: 8.353973
+ 249 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.05 / T: 8.270433
+ 250 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.06 / T: 8.187729
+ 251 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.01 / T: 8.105852
+ 252 th training -> Move Low  / ErrorRate: 9.00% / ErrorGap: -0.05 / T: 8.024793
+ 253 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.05 / T: 7.944545
+ 254 th training -> Move high / ErrorRate: 17.00% / ErrorGap: 0.03 / T: 7.865100
+ 255 th training -> Move high / ErrorRate: 23.00% / ErrorGap: 0.06 / T: 7.786449
+ 256 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.06 / T: 7.708584
+ 257 th training -> Move Low  / ErrorRate: 28.00% / ErrorGap: -0.01 / T: 7.631498
+ 258 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.01 / T: 7.555183
+ 259 th training -> Move high / ErrorRate: 31.00% / ErrorGap: 0.04 / T: 7.479632
+ 260 th training -> Move high / ErrorRate: 35.00% / ErrorGap: 0.04 / T: 7.404835
+ 261 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.11 / T: 7.330787
+ 262 th training -> Move high / ErrorRate: 31.00% / ErrorGap: 0.07 / T: 7.257479
+ 263 th training -> Move Low  / ErrorRate: 31.00% / ErrorGap: 0.00 / T: 7.184904
+ 264 th training -> Move Low  / ErrorRate: 28.00% / ErrorGap: -0.03 / T: 7.113055
+ 265 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.08 / T: 7.041925
+ 266 th training -> Move Low  / ErrorRate: 30.00% / ErrorGap: -0.06 / T: 6.971505
+ 267 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.08 / T: 6.901790
+ 268 th training -> Move Low  / ErrorRate: 35.00% / ErrorGap: -0.03 / T: 6.832772
+ 269 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.04 / T: 6.764445
+ 270 th training -> Move high / ErrorRate: 44.00% / ErrorGap: 0.05 / T: 6.696800
+ 271 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.03 / T: 6.629832
+ 272 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 6.563534
+ 273 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 6.497899
+ 274 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 6.432920
+ 275 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 6.368590
+ 276 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 6.304905
+ 277 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 6.241855
+ 278 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 6.179437
+ 279 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 6.117643
+ 280 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 6.056466
+ 281 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.995901
+ 282 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.935942
+ 283 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.876583
+ 284 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.817817
+ 285 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.759639
+ 286 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.702043
+ 287 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.645022
+ 288 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.588572
+ 289 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.532686
+ 290 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.477359
+ 291 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.422586
+ 292 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.368360
+ 293 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.314676
+ 294 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.261530
+ 295 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.208914
+ 296 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.156825
+ 297 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.105257
+ 298 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.054204
+ 299 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 5.003662
+ 300 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.953626
+ 301 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.904089
+ 302 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.855049
+ 303 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.806498
+ 304 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.758433
+ 305 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.710849
+ 306 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.663740
+ 307 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.617103
+ 308 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.570932
+ 309 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.525222
+ 310 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.479970
+ 311 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.435171
+ 312 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.390819
+ 313 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.346911
+ 314 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.303442
+ 315 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.260407
+ 316 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.217803
+ 317 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.175625
+ 318 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.133869
+ 319 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.092530
+ 320 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.051605
+ 321 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 4.011089
+ 322 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.970978
+ 323 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.931268
+ 324 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.891955
+ 325 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.853036
+ 326 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.814505
+ 327 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.776360
+ 328 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.738597
+ 329 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.701211
+ 330 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.664199
+ 331 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.627557
+ 332 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.591281
+ 333 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.555368
+ 334 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.519815
+ 335 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.484617
+ 336 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.449770
+ 337 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.415273
+ 338 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.381120
+ 339 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.347309
+ 340 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.313836
+ 341 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.280697
+ 342 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.247890
+ 343 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.215411
+ 344 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.183257
+ 345 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.151425
+ 346 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.119911
+ 347 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.088711
+ 348 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.057824
+ 349 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 3.027246
+ 350 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.996974
+ 351 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.967004
+ 352 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.937334
+ 353 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.907960
+ 354 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.878881
+ 355 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.850092
+ 356 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.821591
+ 357 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.793375
+ 358 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.765441
+ 359 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.737787
+ 360 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.710409
+ 361 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.683305
+ 362 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.656472
+ 363 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.629907
+ 364 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.603608
+ 365 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.577572
+ 366 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.551796
+ 367 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.526278
+ 368 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.501016
+ 369 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.476006
+ 370 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.451245
+ 371 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.426733
+ 372 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.402466
+ 373 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.378441
+ 374 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.354657
+ 375 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.331110
+ 376 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.307799
+ 377 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.284721
+ 378 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.261874
+ 379 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.239255
+ 380 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.216862
+ 381 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.194694
+ 382 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.172747
+ 383 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.151019
+ 384 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.129509
+ 385 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.108214
+ 386 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.087132
+ 387 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.066261
+ 388 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.045598
+ 389 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.025142
+ 390 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 2.004891
+ 391 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.984842
+ 392 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.964993
+ 393 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.945343
+ 394 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.925890
+ 395 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.906631
+ 396 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.887565
+ 397 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.868689
+ 398 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.850002
+ 399 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.831502
+ 400 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.813187
+ 401 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.795055
+ 402 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.777105
+ 403 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.759334
+ 404 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.741740
+ 405 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.724323
+ 406 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.707080
+ 407 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.690009
+ 408 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.673109
+ 409 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.656378
+ 410 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.639814
+ 411 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.623416
+ 412 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.607182
+ 413 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.591110
+ 414 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.575199
+ 415 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.559447
+ 416 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.543852
+ 417 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.528414
+ 418 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.513130
+ 419 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.497998
+ 420 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.483018
+ 421 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.468188
+ 422 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.453506
+ 423 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 1.438971
+ 424 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 1.424582
+ 425 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.410336
+ 426 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.396232
+ 427 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.382270
+ 428 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.368447
+ 429 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.354763
+ 430 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.341215
+ 431 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.327803
+ 432 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.314525
+ 433 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.301380
+ 434 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.288366
+ 435 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.275482
+ 436 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.262728
+ 437 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.250100
+ 438 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.237599
+ 439 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.225223
+ 440 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.212971
+ 441 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.200841
+ 442 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 1.188833
+ 443 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 1.176945
+ 444 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 1.165175
+ 445 th training -> Move Low  / ErrorRate: 46.00% / ErrorGap: -0.03 / T: 1.153523
+ 446 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.01 / T: 1.141988
+ 447 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 1.130568
+ 448 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 1.119263
+ 449 th training -> Move Low  / ErrorRate: 46.00% / ErrorGap: -0.03 / T: 1.108070
+ 450 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.03 / T: 1.096989
+ 451 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.04 / T: 1.086019
+ 452 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.05 / T: 1.075159
+ 453 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 1.064408
+ 454 th training -> Move high / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 1.053764
+ 455 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.03 / T: 1.043226
+ 456 th training -> Move Low  / ErrorRate: 44.00% / ErrorGap: -0.01 / T: 1.032794
+ 457 th training -> Move Low  / ErrorRate: 44.00% / ErrorGap: 0.00 / T: 1.022466
+ 458 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.05 / T: 1.012241
+ 459 th training -> Move high / ErrorRate: 43.00% / ErrorGap: 0.04 / T: 1.002119
+ 460 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.02 / T: 0.992097
+ 461 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.04 / T: 0.982176
+ 462 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.04 / T: 0.972355
+ 463 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: 0.00 / T: 0.962631
+ 464 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.02 / T: 0.953005
+ 465 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.943475
+ 466 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.934040
+ 467 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.924700
+ 468 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.915453
+ 469 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.906298
+ 470 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.897235
+ 471 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.888263
+ 472 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.879380
+ 473 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.870586
+ 474 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.861880
+ 475 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.853262
+ 476 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.844729
+ 477 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.836282
+ 478 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.827919
+ 479 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.819640
+ 480 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.811443
+ 481 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.803329
+ 482 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.795296
+ 483 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.787343
+ 484 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.779469
+ 485 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.771675
+ 486 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.763958
+ 487 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.756318
+ 488 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.748755
+ 489 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.741268
+ 490 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.733855
+ 491 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.726516
+ 492 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.719251
+ 493 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.04 / T: 0.712059
+ 494 th training -> Move high / ErrorRate: 46.00% / ErrorGap: 0.01 / T: 0.704938
+ 495 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.06 / T: 0.697889
+ 496 th training -> Move high / ErrorRate: 41.00% / ErrorGap: 0.01 / T: 0.690910
+ 497 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.03 / T: 0.684001
+ 498 th training -> Move Low  / ErrorRate: 29.00% / ErrorGap: -0.09 / T: 0.677161
+ 499 th training -> Move high / ErrorRate: 31.00% / ErrorGap: 0.02 / T: 0.670389
+ 500 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.07 / T: 0.663685
+ 501 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.05 / T: 0.657048
+ 502 th training -> Move high / ErrorRate: 35.00% / ErrorGap: 0.06 / T: 0.650478
+ 503 th training -> Move Low  / ErrorRate: 29.00% / ErrorGap: -0.06 / T: 0.643973
+ 504 th training -> Move high / ErrorRate: 34.00% / ErrorGap: 0.05 / T: 0.637533
+ 505 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.04 / T: 0.631158
+ 506 th training -> Move Low  / ErrorRate: 29.00% / ErrorGap: -0.09 / T: 0.624846
+ 507 th training -> Move Low  / ErrorRate: 27.00% / ErrorGap: -0.02 / T: 0.618598
+ 508 th training -> Stay here / ErrorRate: 27.00% / ErrorGap: 0.06 / T: 0.612412
+ 509 th training -> Move high / ErrorRate: 33.00% / ErrorGap: 0.06 / T: 0.606288
+ 510 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.09 / T: 0.600225
+ 511 th training -> Move Low  / ErrorRate: 22.00% / ErrorGap: -0.02 / T: 0.594223
+ 512 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.05 / T: 0.588280
+ 513 th training -> Move Low  / ErrorRate: 23.00% / ErrorGap: -0.04 / T: 0.582398
+ 514 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: -0.03 / T: 0.576574
+ 515 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.07 / T: 0.570808
+ 516 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.06 / T: 0.565100
+ 517 th training -> Move high / ErrorRate: 20.00% / ErrorGap: 0.01 / T: 0.559449
+ 518 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.06 / T: 0.553854
+ 519 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.02 / T: 0.548316
+ 520 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.02 / T: 0.542833
+ 521 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.03 / T: 0.537404
+ 522 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 0.532030
+ 523 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 0.526710
+ 524 th training -> Move high / ErrorRate: 12.00% / ErrorGap: 0.01 / T: 0.521443
+ 525 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 0.516228
+ 526 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.01 / T: 0.511066
+ 527 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.03 / T: 0.505956
+ 528 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.03 / T: 0.500896
+ 529 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.10 / T: 0.495887
+ 530 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.05 / T: 0.490928
+ 531 th training -> Move Low  / ErrorRate: 29.00% / ErrorGap: 0.00 / T: 0.486019
+ 532 th training -> Move Low  / ErrorRate: 23.00% / ErrorGap: -0.06 / T: 0.481159
+ 533 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: -0.03 / T: 0.476347
+ 534 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.08 / T: 0.471584
+ 535 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 0.466868
+ 536 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 0.462199
+ 537 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.08 / T: 0.457577
+ 538 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.08 / T: 0.453001
+ 539 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 0.448471
+ 540 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.06 / T: 0.443987
+ 541 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.05 / T: 0.439547
+ 542 th training -> Stay here / ErrorRate: 14.00% / ErrorGap: 0.08 / T: 0.435151
+ 543 th training -> Move high / ErrorRate: 22.00% / ErrorGap: 0.08 / T: 0.430800
+ 544 th training -> Move high / ErrorRate: 24.00% / ErrorGap: 0.02 / T: 0.426492
+ 545 th training -> Move high / ErrorRate: 35.00% / ErrorGap: 0.11 / T: 0.422227
+ 546 th training -> Move high / ErrorRate: 38.00% / ErrorGap: 0.03 / T: 0.418005
+ 547 th training -> Move Low  / ErrorRate: 30.00% / ErrorGap: -0.08 / T: 0.413825
+ 548 th training -> Move Low  / ErrorRate: 24.00% / ErrorGap: -0.06 / T: 0.409686
+ 549 th training -> Move Low  / ErrorRate: 17.00% / ErrorGap: -0.07 / T: 0.405589
+ 550 th training -> Move high / ErrorRate: 19.00% / ErrorGap: 0.02 / T: 0.401534
+ 551 th training -> Move Low  / ErrorRate: 19.00% / ErrorGap: 0.00 / T: 0.397518
+ 552 th training -> Move high / ErrorRate: 21.00% / ErrorGap: 0.02 / T: 0.393543
+ 553 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.07 / T: 0.389608
+ 554 th training -> Move high / ErrorRate: 15.00% / ErrorGap: 0.01 / T: 0.385712
+ 555 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: -0.02 / T: 0.381854
+ 556 th training -> Move Low  / ErrorRate: 13.00% / ErrorGap: 0.00 / T: 0.378036
+ 557 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 0.374256
+ 558 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.01 / T: 0.370513
+ 559 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.02 / T: 0.366808
+ 560 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: 0.00 / T: 0.363140
+ 561 th training -> Move high / ErrorRate: 13.00% / ErrorGap: 0.02 / T: 0.359508
+ 562 th training -> Move Low  / ErrorRate: 12.00% / ErrorGap: -0.01 / T: 0.355913
+ 563 th training -> Move Low  / ErrorRate: 11.00% / ErrorGap: -0.01 / T: 0.352354
+ 564 th training -> Move high / ErrorRate: 14.00% / ErrorGap: 0.03 / T: 0.348831
+ 565 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 0.345342
+ 566 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: 0.00 / T: 0.341889
+ 567 th training -> Move high / ErrorRate: 20.00% / ErrorGap: 0.06 / T: 0.338470
+ 568 th training -> Move Low  / ErrorRate: 20.00% / ErrorGap: 0.00 / T: 0.335085
+ 569 th training -> Move Low  / ErrorRate: 14.00% / ErrorGap: -0.06 / T: 0.331734
+ 570 th training -> Move high / ErrorRate: 22.00% / ErrorGap: 0.08 / T: 0.328417
+ 571 th training -> Move high / ErrorRate: 27.00% / ErrorGap: 0.05 / T: 0.325133
+ 572 th training -> Move high / ErrorRate: 29.00% / ErrorGap: 0.02 / T: 0.321882
+ 573 th training -> Move high / ErrorRate: 34.00% / ErrorGap: 0.05 / T: 0.318663
+ 574 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.05 / T: 0.315476
+ 575 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.01 / T: 0.312321
+ 576 th training -> Move Low  / ErrorRate: 31.00% / ErrorGap: -0.07 / T: 0.309198
+ 577 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.05 / T: 0.306106
+ 578 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.03 / T: 0.303045
+ 579 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.01 / T: 0.300015
+ 580 th training -> Move high / ErrorRate: 44.00% / ErrorGap: 0.04 / T: 0.297015
+ 581 th training -> Move Low  / ErrorRate: 41.00% / ErrorGap: -0.03 / T: 0.294044
+ 582 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.01 / T: 0.291104
+ 583 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 0.288193
+ 584 th training -> Move high / ErrorRate: 41.00% / ErrorGap: 0.02 / T: 0.285311
+ 585 th training -> Move high / ErrorRate: 42.00% / ErrorGap: 0.01 / T: 0.282458
+ 586 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.03 / T: 0.279633
+ 587 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.01 / T: 0.276837
+ 588 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.02 / T: 0.274069
+ 589 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: 0.00 / T: 0.271328
+ 590 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.02 / T: 0.268615
+ 591 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.01 / T: 0.265928
+ 592 th training -> Move Low  / ErrorRate: 36.00% / ErrorGap: -0.03 / T: 0.263269
+ 593 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.03 / T: 0.260636
+ 594 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.01 / T: 0.258030
+ 595 th training -> Move Low  / ErrorRate: 35.00% / ErrorGap: -0.03 / T: 0.255450
+ 596 th training -> Move high / ErrorRate: 36.00% / ErrorGap: 0.01 / T: 0.252895
+ 597 th training -> Move high / ErrorRate: 37.00% / ErrorGap: 0.01 / T: 0.250366
+ 598 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.02 / T: 0.247863
+ 599 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.01 / T: 0.245384
+ 600 th training -> Move high / ErrorRate: 40.00% / ErrorGap: 0.02 / T: 0.242930
+ 601 th training -> Move high / ErrorRate: 41.00% / ErrorGap: 0.01 / T: 0.240501
+ 602 th training -> Move Low  / ErrorRate: 41.00% / ErrorGap: 0.00 / T: 0.238096
+ 603 th training -> Move Low  / ErrorRate: 41.00% / ErrorGap: 0.00 / T: 0.235715
+ 604 th training -> Stay here / ErrorRate: 41.00% / ErrorGap: 0.04 / T: 0.233358
+ 605 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.04 / T: 0.231024
+ 606 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.02 / T: 0.228714
+ 607 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.226427
+ 608 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.224163
+ 609 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.221921
+ 610 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.02 / T: 0.219702
+ 611 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: 0.00 / T: 0.217505
+ 612 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.04 / T: 0.215330
+ 613 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.213176
+ 614 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.211045
+ 615 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.208934
+ 616 th training -> Stay here / ErrorRate: 47.00% / ErrorGap: 0.02 / T: 0.206845
+ 617 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.204776
+ 618 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.202729
+ 619 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.200701
+ 620 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.198694
+ 621 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.196707
+ 622 th training -> Move high / ErrorRate: 48.00% / ErrorGap: 0.01 / T: 0.194740
+ 623 th training -> Move Low  / ErrorRate: 46.00% / ErrorGap: -0.02 / T: 0.192793
+ 624 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.01 / T: 0.190865
+ 625 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.02 / T: 0.188956
+ 626 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: -0.06 / T: 0.187067
+ 627 th training -> Move Low  / ErrorRate: 38.00% / ErrorGap: -0.01 / T: 0.185196
+ 628 th training -> Move high / ErrorRate: 39.00% / ErrorGap: 0.01 / T: 0.183344
+ 629 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: 0.00 / T: 0.181511
+ 630 th training -> Move Low  / ErrorRate: 39.00% / ErrorGap: 0.00 / T: 0.179696
+ 631 th training -> Move high / ErrorRate: 41.00% / ErrorGap: 0.02 / T: 0.177899
+ 632 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.01 / T: 0.176120
+ 633 th training -> Move high / ErrorRate: 42.00% / ErrorGap: 0.02 / T: 0.174358
+ 634 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.05 / T: 0.172615
+ 635 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.02 / T: 0.170889
+ 636 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.04 / T: 0.169180
+ 637 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.167488
+ 638 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.165813
+ 639 th training -> Move Low  / ErrorRate: 42.00% / ErrorGap: -0.05 / T: 0.164155
+ 640 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.05 / T: 0.162513
+ 641 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.05 / T: 0.160888
+ 642 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.159279
+ 643 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.157687
+ 644 th training -> Move high / ErrorRate: 49.00% / ErrorGap: 0.02 / T: 0.156110
+ 645 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.154549
+ 646 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.153003
+ 647 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.151473
+ 648 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.149958
+ 649 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.148459
+ 650 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.146974
+ 651 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.145505
+ 652 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.144049
+ 653 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.142609
+ 654 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.141183
+ 655 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.139771
+ 656 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.138373
+ 657 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.136990
+ 658 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.135620
+ 659 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.134264
+ 660 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.132921
+ 661 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.131592
+ 662 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.130276
+ 663 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.128973
+ 664 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.127683
+ 665 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.126406
+ 666 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.125142
+ 667 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.123891
+ 668 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.122652
+ 669 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.121426
+ 670 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.120211
+ 671 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.119009
+ 672 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.117819
+ 673 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.116641
+ 674 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.115474
+ 675 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.114320
+ 676 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.113177
+ 677 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.112045
+ 678 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.110924
+ 679 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.109815
+ 680 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.108717
+ 681 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.107630
+ 682 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.106553
+ 683 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.105488
+ 684 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.104433
+ 685 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.103389
+ 686 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.102355
+ 687 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.101331
+ 688 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.100318
+ 689 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.099315
+ 690 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.098322
+ 691 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.097338
+ 692 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.096365
+ 693 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.095401
+ 694 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.094447
+ 695 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.093503
+ 696 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.092568
+ 697 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.091642
+ 698 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.090726
+ 699 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.089819
+ 700 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.088920
+ 701 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.088031
+ 702 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.087151
+ 703 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.086279
+ 704 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.085417
+ 705 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.084562
+ 706 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.083717
+ 707 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.082880
+ 708 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.082051
+ 709 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.081230
+ 710 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.080418
+ 711 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.079614
+ 712 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.078818
+ 713 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.078029
+ 714 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.077249
+ 715 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.076477
+ 716 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.075712
+ 717 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.074955
+ 718 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.074205
+ 719 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.073463
+ 720 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.072729
+ 721 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.072001
+ 722 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.071281
+ 723 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.070568
+ 724 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.069863
+ 725 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.069164
+ 726 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.068472
+ 727 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.067788
+ 728 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.067110
+ 729 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.066439
+ 730 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.065774
+ 731 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.065117
+ 732 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.064465
+ 733 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.063821
+ 734 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.063183
+ 735 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.062551
+ 736 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.061925
+ 737 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.061306
+ 738 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.060693
+ 739 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.060086
+ 740 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.059485
+ 741 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.058890
+ 742 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.058301
+ 743 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.057718
+ 744 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.057141
+ 745 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.056570
+ 746 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.056004
+ 747 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.055444
+ 748 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.054890
+ 749 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.054341
+ 750 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.053797
+ 751 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.053259
+ 752 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.052727
+ 753 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.052199
+ 754 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.051678
+ 755 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.051161
+ 756 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.050649
+ 757 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.050143
+ 758 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.049641
+ 759 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.049145
+ 760 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.048653
+ 761 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.048167
+ 762 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.047685
+ 763 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.047208
+ 764 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.046736
+ 765 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.046269
+ 766 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.045806
+ 767 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.045348
+ 768 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.044895
+ 769 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.044446
+ 770 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.044001
+ 771 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.043561
+ 772 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.043126
+ 773 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.042694
+ 774 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.042267
+ 775 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.041845
+ 776 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.041426
+ 777 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.041012
+ 778 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.040602
+ 779 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.040196
+ 780 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.039794
+ 781 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.039396
+ 782 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.039002
+ 783 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.038612
+ 784 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.038226
+ 785 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.037844
+ 786 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.037465
+ 787 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.037091
+ 788 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.036720
+ 789 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.036352
+ 790 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.035989
+ 791 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.035629
+ 792 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.035273
+ 793 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.034920
+ 794 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.034571
+ 795 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.034225
+ 796 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.033883
+ 797 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.033544
+ 798 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.033209
+ 799 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.032876
+ 800 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.032548
+ 801 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.032222
+ 802 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.031900
+ 803 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.031581
+ 804 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.031265
+ 805 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.030953
+ 806 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.030643
+ 807 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.030337
+ 808 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.030033
+ 809 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.029733
+ 810 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.029436
+ 811 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.029141
+ 812 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.028850
+ 813 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.028561
+ 814 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.028276
+ 815 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.027993
+ 816 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.027713
+ 817 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.027436
+ 818 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.027162
+ 819 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.026890
+ 820 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.026621
+ 821 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.026355
+ 822 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.026091
+ 823 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.025830
+ 824 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.025572
+ 825 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.025316
+ 826 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.025063
+ 827 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.024813
+ 828 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.024564
+ 829 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.024319
+ 830 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.024076
+ 831 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: 0.00 / T: 0.023835
+ 832 th training -> Move high / ErrorRate: 50.00% / ErrorGap: 0.01 / T: 0.023596
+ 833 th training -> Move Low  / ErrorRate: 50.00% / ErrorGap: 0.00 / T: 0.023360
+ 834 th training -> Move Low  / ErrorRate: 49.00% / ErrorGap: -0.01 / T: 0.023127
+ 835 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: -0.02 / T: 0.022896
+ 836 th training -> Move Low  / ErrorRate: 47.00% / ErrorGap: 0.00 / T: 0.022667
+ 837 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: -0.02 / T: 0.022440
+ 838 th training -> Move Low  / ErrorRate: 42.00% / ErrorGap: -0.03 / T: 0.022216
+ 839 th training -> Move high / ErrorRate: 47.00% / ErrorGap: 0.05 / T: 0.021993
+ 840 th training -> Move Low  / ErrorRate: 42.00% / ErrorGap: -0.05 / T: 0.021774
+ 841 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.021556
+ 842 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.021340
+ 843 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.021127
+ 844 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.020916
+ 845 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.020706
+ 846 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.020499
+ 847 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.020294
+ 848 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.020091
+ 849 th training -> Stay here / ErrorRate: 42.00% / ErrorGap: 0.03 / T: 0.019890
+ 850 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.03 / T: 0.019692
+ 851 th training -> Move Low  / ErrorRate: 42.00% / ErrorGap: -0.03 / T: 0.019495
+ 852 th training -> Move high / ErrorRate: 45.00% / ErrorGap: 0.03 / T: 0.019300
+ 853 th training -> Move Low  / ErrorRate: 45.00% / ErrorGap: 0.00 / T: 0.019107
+ 854 th training -> Move Low  / ErrorRate: 40.00% / ErrorGap: -0.05 / T: 0.018916
+ 855 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.018726
+ 856 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.018539
+ 857 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.018354
+ 858 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.018170
+ 859 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017989
+ 860 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017809
+ 861 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017631
+ 862 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017454
+ 863 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017280
+ 864 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.017107
+ 865 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016936
+ 866 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016767
+ 867 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016599
+ 868 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016433
+ 869 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016269
+ 870 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.016106
+ 871 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015945
+ 872 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015785
+ 873 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015628
+ 874 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015471
+ 875 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015317
+ 876 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015163
+ 877 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.015012
+ 878 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014862
+ 879 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014713
+ 880 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014566
+ 881 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014420
+ 882 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014276
+ 883 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.014133
+ 884 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013992
+ 885 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013852
+ 886 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013713
+ 887 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013576
+ 888 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013441
+ 889 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013306
+ 890 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013173
+ 891 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.013041
+ 892 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012911
+ 893 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012782
+ 894 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012654
+ 895 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012527
+ 896 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012402
+ 897 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012278
+ 898 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012155
+ 899 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.012034
+ 900 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011914
+ 901 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011794
+ 902 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011676
+ 903 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011560
+ 904 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011444
+ 905 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011330
+ 906 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011216
+ 907 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.011104
+ 908 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010993
+ 909 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010883
+ 910 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010774
+ 911 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010667
+ 912 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010560
+ 913 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010454
+ 914 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010350
+ 915 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010246
+ 916 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010144
+ 917 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.010042
+ 918 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009942
+ 919 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009843
+ 920 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009744
+ 921 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009647
+ 922 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009550
+ 923 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009455
+ 924 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009360
+ 925 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009267
+ 926 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009174
+ 927 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.009082
+ 928 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008991
+ 929 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008901
+ 930 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008812
+ 931 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008724
+ 932 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008637
+ 933 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008551
+ 934 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008465
+ 935 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008381
+ 936 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008297
+ 937 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008214
+ 938 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008132
+ 939 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.008050
+ 940 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007970
+ 941 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007890
+ 942 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007811
+ 943 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007733
+ 944 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007656
+ 945 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007579
+ 946 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007503
+ 947 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007428
+ 948 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007354
+ 949 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007281
+ 950 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007208
+ 951 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007136
+ 952 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.007064
+ 953 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006994
+ 954 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006924
+ 955 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006854
+ 956 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006786
+ 957 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006718
+ 958 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006651
+ 959 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006584
+ 960 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006519
+ 961 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006453
+ 962 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006389
+ 963 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006325
+ 964 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006262
+ 965 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006199
+ 966 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006137
+ 967 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006076
+ 968 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.006015
+ 969 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005955
+ 970 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005895
+ 971 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005836
+ 972 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005778
+ 973 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005720
+ 974 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005663
+ 975 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005606
+ 976 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005550
+ 977 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005495
+ 978 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005440
+ 979 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005385
+ 980 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005332
+ 981 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005278
+ 982 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005225
+ 983 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005173
+ 984 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005121
+ 985 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005070
+ 986 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.005020
+ 987 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004969
+ 988 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004920
+ 989 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004870
+ 990 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004822
+ 991 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004774
+ 992 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004726
+ 993 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004679
+ 994 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004632
+ 995 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004585
+ 996 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004540
+ 997 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004494
+ 998 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004449
+ 999 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004405
+1000 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004361
+1001 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004317
+1002 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004274
+1003 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004231
+1004 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004189
+1005 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004147
+1006 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004106
+1007 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004064
+1008 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.004024
+1009 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003984
+1010 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003944
+1011 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003904
+1012 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003865
+1013 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003827
+1014 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003788
+1015 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003750
+1016 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003713
+1017 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003676
+1018 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003639
+1019 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003603
+1020 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003567
+1021 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003531
+1022 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003496
+1023 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003461
+1024 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003426
+1025 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003392
+1026 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003358
+1027 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003324
+1028 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003291
+1029 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003258
+1030 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003226
+1031 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003193
+1032 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003161
+1033 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003130
+1034 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003099
+1035 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003068
+1036 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003037
+1037 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.003007
+1038 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002976
+1039 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002947
+1040 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002917
+1041 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002888
+1042 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002859
+1043 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002831
+1044 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002802
+1045 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002774
+1046 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002746
+1047 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002719
+1048 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002692
+1049 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002665
+1050 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002638
+1051 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002612
+1052 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002586
+1053 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002560
+1054 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002534
+1055 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002509
+1056 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002484
+1057 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002459
+1058 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002434
+1059 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002410
+1060 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002386
+1061 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002362
+1062 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002339
+1063 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002315
+1064 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002292
+1065 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002269
+1066 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002246
+1067 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002224
+1068 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002202
+1069 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002180
+1070 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002158
+1071 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002136
+1072 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002115
+1073 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002094
+1074 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002073
+1075 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002052
+1076 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002032
+1077 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.002011
+1078 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001991
+1079 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001971
+1080 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001952
+1081 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001932
+1082 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001913
+1083 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001894
+1084 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001875
+1085 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001856
+1086 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001837
+1087 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001819
+1088 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001801
+1089 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001783
+1090 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001765
+1091 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001747
+1092 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001730
+1093 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001713
+1094 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001695
+1095 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001678
+1096 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001662
+1097 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001645
+1098 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001629
+1099 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001612
+1100 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001596
+1101 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001580
+1102 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001564
+1103 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001549
+1104 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001533
+1105 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001518
+1106 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001503
+1107 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001488
+1108 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001473
+1109 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001458
+1110 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001444
+1111 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001429
+1112 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001415
+1113 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001401
+1114 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001387
+1115 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001373
+1116 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001359
+1117 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001345
+1118 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001332
+1119 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001319
+1120 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001306
+1121 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001292
+1122 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001280
+1123 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001267
+1124 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001254
+1125 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001242
+1126 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001229
+1127 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001217
+1128 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001205
+1129 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001193
+1130 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001181
+1131 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001169
+1132 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001157
+1133 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001146
+1134 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001134
+1135 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001123
+1136 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001112
+1137 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001100
+1138 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001089
+1139 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001079
+1140 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001068
+1141 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001057
+1142 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001047
+1143 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001036
+1144 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001026
+1145 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001015
+1146 th training -> Stay here / ErrorRate: 40.00% / ErrorGap: 0.07 / T: 0.001005
+
+Best paramiter: [1.9286108296590418, -1.040881478938871, -135.8343946391429] in 162th training
+Best Error rate: 8.0%
+Total Trained time: 1146
