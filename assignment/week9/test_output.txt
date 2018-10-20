@@ -1,0 +1,4 @@
+Test Data: [0, 0] -> Classification Result: 0 (correct)
+Test Data: [0, 1] -> Classification Result: 1 (correct)
+Test Data: [1, 0] -> Classification Result: 1 (correct)
+Test Data: [1, 1] -> Classification Result: 0 (correct)
